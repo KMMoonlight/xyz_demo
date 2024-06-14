@@ -1,0 +1,7 @@
+.img-height {
+  height: calc(100% - 40px);
+}
+
+.box-width {
+  width: calc(100% - 20px);
+}

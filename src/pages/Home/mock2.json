@@ -1,0 +1,2885 @@
+{
+  "data": [
+    {
+      "type": "EPISODE",
+      "eid": "666ba5587cedb8f7e2af3011",
+      "pid": "5e280faf418a84a0461fba0d",
+      "title": "《疯狂的麦克斯：狂暴女神》废土没有尽头！",
+      "shownotes": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span><b>随着文明世界分崩离析，年轻的弗瑞奥萨被人从家园“丰饶之地”掠走，落入了由军阀狄门特斯领导的帮派手中。穿过荒原，他们来到了不死乔所掌管的堡垒。在两位暴君激烈争夺统治地位的同时，弗瑞奥萨必须在重重考验中活下来，并想方设法寻找回家的路；她也逐渐成长为观众们熟知的那位利落酷飒的狂暴女神。</b></span></p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\"><span>【时间轴】<br>01:31 回顾《疯狂的麦克斯》系列前几部电影，讨论该系列在影史上的影响。<br>07:31 讨论《疯狂的麦克斯2》对后续废土题材作品的影响，包括游戏《无主之地》和《狂暴》等。<br>15:01 详细讨论《疯狂的麦克斯3》的制作和内容，及其在系列中的独特性和视觉表现。<br>30:01 分析《疯狂的麦克斯：狂暴之路》的成功，讨论其制作过程中的种种困难及乔治·米勒导演的坚持。<br>40:01 探讨废土文化及末世题材作品的起源，特别提到冷战时期核恐惧对这一题材的影响。<br>57:31 《疯狂的麦克斯》系列的历史和文化意义，讨论未来可能的发展方向。<br></span></p>",
+      "description": "随着文明世界分崩离析，年轻的弗瑞奥萨被人从家园“丰饶之地”掠走，落入了由军阀狄门特斯领导的帮派手中。穿过荒原，他们来到了不死乔所掌管的堡垒。在两位暴君激烈争夺统治地位的同时，弗瑞奥萨必须在重重考验中活下来，并想方设法寻找回家的路；她也逐渐成长为观众们熟知的那位利落酷飒的狂暴女神。\n【时间轴】\n01:31 回顾《疯狂的麦克斯》系列前几部电影，讨论该系列在影史上的影响。\n07:31 讨论《疯狂的麦克斯2》对后续废土题材作品的影响，包括游戏《无主之地》和《狂暴》等。\n15:01 详细讨论《疯狂的麦克斯3》的制作和内容，及其在系列中的独特性和视觉表现。\n30:01 分析《疯狂的麦克斯：狂暴之路》的成功，讨论其制作过程中的种种困难及乔治·米勒导演的坚持。\n40:01 探讨废土文化及末世题材作品的起源，特别提到冷战时期核恐惧对这一题材的影响。\n57:31 《疯狂的麦克斯》系列的历史和文化意义，讨论未来可能的发展方向。",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9hN2M1LWF1ZGlvZnJlZWhpZ2hxcHMvREUvNkUvR01Db09TVUtRS1RiQUFRUFBBTGhKMW5wLmpwZWc=.jpeg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9hN2M1LWF1ZGlvZnJlZWhpZ2hxcHMvREUvNkUvR01Db09TVUtRS1RiQUFRUFBBTGhKMW5wLmpwZWc=.jpeg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9hN2M1LWF1ZGlvZnJlZWhpZ2hxcHMvREUvNkUvR01Db09TVUtRS1RiQUFRUFBBTGhKMW5wLmpwZWc=.jpeg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9hN2M1LWF1ZGlvZnJlZWhpZ2hxcHMvREUvNkUvR01Db09TVUtRS1RiQUFRUFBBTGhKMW5wLmpwZWc=.jpeg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9hN2M1LWF1ZGlvZnJlZWhpZ2hxcHMvREUvNkUvR01Db09TVUtRS1RiQUFRUFBBTGhKMW5wLmpwZWc=.jpeg@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://jt.ximalaya.com//GKwRIMAKQKYkAklJcQLhKD5M.m4a?channel=rss&album_id=3558668&track_id=734706103&uid=40763963&jt=https://audio.xmcdn.com/storages/37d7-audiofreehighqps/ED/11/GKwRIMAKQKYkAklJcQLhKD5M.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "//GKwRIMAKQKYkAklJcQLhKD5M.m4a?channel=rss&album_id=3558668&track_id=734706103&uid=40763963&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2F37d7-audiofreehighqps%2FED%2F11%2FGKwRIMAKQKYkAklJcQLhKD5M.m4a",
+      "media": {
+        "id": "//GKwRIMAKQKYkAklJcQLhKD5M.m4a?channel=rss&album_id=3558668&track_id=734706103&uid=40763963&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2F37d7-audiofreehighqps%2FED%2F11%2FGKwRIMAKQKYkAklJcQLhKD5M.m4a",
+        "size": 189534148,
+        "mimeType": "audio/x-m4a",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://jt.ximalaya.com//GKwRIMAKQKYkAklJcQLhKD5M.m4a?channel=rss&album_id=3558668&track_id=734706103&uid=40763963&jt=https://audio.xmcdn.com/storages/37d7-audiofreehighqps/ED/11/GKwRIMAKQKYkAklJcQLhKD5M.m4a"
+        },
+        "backupSource": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e280faf418a84a0461fba0d/ljzt7o5cFOne1CanETmJQqTRAK-U.mp4a"
+        }
+      },
+      "clapCount": 5,
+      "commentCount": 41,
+      "playCount": 1641,
+      "favoriteCount": 11,
+      "pubDate": "2024-06-14T02:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 4738,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e280faf418a84a0461fba0d",
+        "title": "黑水公园",
+        "author": "赵艾文",
+        "brief": "以电影、剧集、科幻、动漫为载体",
+        "description": "黑水公园是一档以电影、剧集、科幻、动漫为载体，畅谈人生的趣谈节目。\n（金花微信：uwwwsc；金花微博：黑水公园_金花）",
+        "subscriptionCount": 115659,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZTI5LWF1ZGlvZnJlZWhpZ2hxcHMvMzYvNDAvR0t3UklXNEhfcm5BQUFQeTJBSUo2TVI5LmpwZWc=.jpeg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZTI5LWF1ZGlvZnJlZWhpZ2hxcHMvMzYvNDAvR0t3UklXNEhfcm5BQUFQeTJBSUo2TVI5LmpwZWc=.jpeg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZTI5LWF1ZGlvZnJlZWhpZ2hxcHMvMzYvNDAvR0t3UklXNEhfcm5BQUFQeTJBSUo2TVI5LmpwZWc=.jpeg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZTI5LWF1ZGlvZnJlZWhpZ2hxcHMvMzYvNDAvR0t3UklXNEhfcm5BQUFQeTJBSUo2TVI5LmpwZWc=.jpeg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yZTI5LWF1ZGlvZnJlZWhpZ2hxcHMvMzYvNDAvR0t3UklXNEhfcm5BQUFQeTJBSUo2TVI5LmpwZWc=.jpeg@thumbnail"
+        },
+        "color": {
+          "original": "#35352F",
+          "light": "#9D9707",
+          "dark": "#9D9707"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 574,
+        "latestEpisodePubDate": "2024-06-14T02:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 70,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5ed74689493814d0192e4185",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fm4W6ZFZFJCW49p6nEbStFpdBlJv",
+                "largePicUrl": "https://image.xyzcdn.net/Fm4W6ZFZFJCW49p6nEbStFpdBlJv@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fm4W6ZFZFJCW49p6nEbStFpdBlJv@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fm4W6ZFZFJCW49p6nEbStFpdBlJv@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fm4W6ZFZFJCW49p6nEbStFpdBlJv@thumbnail",
+                "format": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "nickname": "金花院长",
+            "isNicknameSet": false,
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "黑水公园",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "黑水公园_金花",
+            "url": "https://weibo.com/n/黑水公园_金花"
+          },
+          {
+            "type": "jike",
+            "name": "金花-黑水公园",
+            "url": "https://m.okjike.com/users/07D11E5E-CB9F-4D25-8FFC-B02BF562CDD4"
+          },
+          {
+            "type": "wechat",
+            "name": "uwwwsc",
+            "note": "加听友群"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "transcript": {
+        "mediaId": "5e280faf418a84a0461fba0d/ljzt7o5cFOne1CanETmJQqTRAK-U.mp4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "666b89ac7cedb8f7e2a4d75b",
+      "pid": "5e5c52c9418a84a04625e6cc",
+      "title": "E155｜马斯克太空梦进度条70%，聊聊星舰的四次发射与SpaceX Mafia",
+      "shownotes": "<p>2024年6月6日，马斯克的重型火箭星舰完成第四次试飞，这次试飞成功在印度洋软着陆。马斯克在X上写道，这次试飞的主要目标就是星舰在重返时能够经受住最高温的灼烧。正如马斯克所预料的，这次星舰的整个发射过程相比于前三次更加顺利，但在重返大气层时，镜头因为高温严重损毁，直播信号中断，星舰襟翼受损、丢失了很多陶瓷瓦片。所以虽然星舰这次完成了软着陆，但是舰体损毁没有办法重复使用。</p>\n\n<p>然而对于很多太空迷来说，星舰的第四次试飞是一个巨大的进步，人类离太空又进了一步。今天我们就来聊聊星舰的这次发射，和星舰衍生的太空产业。</p>\n\n<p>关于星舰与猎鹰九号有何不同、星舰是如何造出来的，以及星舰的起源与商业化目标，可以去听我们跟Lewis聊的第106期节目。</p>\n\n<p><strong>【主播】</strong><br>\n泓君Jane，硅谷101创始人，播客主理人<br>\n陈茜，硅谷101联合创始人，视频主理人<br>\n<strong>【嘉宾】</strong><br>\nLewis Hong，FP Solutions的创始管理合伙人，SpaceX前高管</p>\n\n<p><strong>【你将听到】</strong><br>\n02:39 复盘星舰的第四次发射，里程碑式的一步：成功进入轨道，完成任务并成功返回<br>\n04:23 星舰第一次发射（2023年4月20日）：上升阶段在空中炸了<br>\n06:44 星舰第二次发射（2023年11月18日）：修复了发射台，进入太空后炸了<br>\n10:14 星舰第三次发射（2024年3月14日）：成功发射进入轨道，但回到大气层的时候炸了<br>\n12:28 一只星舰1亿美元，SpaceX够炸多少次？ <br>\n14:30 星舰体系获得了监管信任，今年的目标是发9次<br>\n17:45 虽然没能回收，但星舰的四飞已经实现了火箭开发的70%<br>\n20:05 从70%到90%可能的难题：运算准确度、架构、星舰体积大<br>\n24:45 空中加油是天方夜谭吗？<br>\n26:20 SpaceX基于星舰的新商业模式：星链、太空站<br>\n28:31太空产业的新动向：太空通讯网络、低轨基建、可控引力太空站<br>\n32:26 太空生产公司Varda：做地球上做不出来的材料，比如替药厂做R&amp;D<br>\n35:00 月球热、NASA和星舰的2026登月计划<br>\n39:37 SpaceX mafia：一些SpaceX离职员工们成立的公司<br>\n41:45 Vast：做有地心引力的太空站<br>\n44:16 Zona在做新一代GPS：不止星链在做卫星监测<br>\n47:23 汇集大厂前员工们的新公司：AI+太空数据+材料工厂<br>\n49:15 低轨卫星赛道的其他公司：波音、Sierra Space、Blue Origin<br>\n53:43 SpaceX和Tesla在美国培养出了新一代的硬件创业者<br>\n55:50 硬件创业对比：少量、多样、自动化<br>\n59:33 互相帮衬的SpaceX mafia与Tesla mafia</p>\n\n<p><strong>【相关单集】</strong><br>\nE106｜真正造星舰的人来了，与SpaceX前高管聊聊马斯克的火星计划<br>\nS2E64 | 韦伯升空看向宇宙最黑暗处，星链锁死地面天文观测<br>\nS2E45｜下一站，太空！美国亿万富翁的太空竞赛</p>\n\n<p><strong>【名词解释】</strong></p>\n\n<p><strong>FAA (Federal Aviation Administration) ：</strong>The Federal Aviation Administration (FAA) 是美国交通部下属的联邦政府机构，负责监管美国及周边国际水域的民用航空。其主要职责包括空中交通管制、航空人员和飞机的认证、制定机场标准，以及在商业航天器发射或重新进入时保护美国资产。</p>\n\n<p><strong>第一原理：</strong>一种基于基本概念或公理的思维方式，用于分析和解决问题。它要求通过最基本和最基本的真理来推导结论，而不是依赖于传统的假设或惯例。这种方法常用于科学和工程领域，以寻找最有效的解决方案。Elon Musk 是这种思维方式的著名倡导者，特别是在他开发 SpaceX 和 Tesla 产品的过程中。</p>\n\n<p><strong>国际太空站ISS：</strong>是一个由多个国家合作建立和运营的空间站，主要用于科学研究和技术试验。它在地球的低轨道运行，提供一个微重力环境，用于各种科学实验。ISS 的主要合作伙伴包括美国国家航空航天局 (NASA)、俄罗斯联邦航天局 (Roscosmos)、欧洲航天局 (ESA)、日本宇宙航空研究开发机构 (JAXA) 和加拿大航天局 (CSA)。</p>\n\n<p><strong>NASA登月计划：</strong>NASA 的登月计划包括“阿尔忒弥斯计划”，目标2026年将人类重新送上月球，并最终为火星探测任务做准备。</p>\n\n<p><strong>Space Launch System (SLS) ：</strong>美国国家航空航天局 (NASA) 开发的一种超级重型运载火箭，旨在支持深空探测任务。它是阿尔忒弥斯计划的重要组成部分，设计用于将宇航员和货物送往月球、火星及其他深空目的地。</p>\n\n<p><strong>猎鹰9号 (Falcon 9)</strong> ：是一种可重复使用的火箭，旨在将卫星和其他有效载荷送入地球轨道，并将货物和宇航员送往国际空间站 (ISS)。它是全球首个能够部分重复使用的大型火箭系统，通过回收和再次使用第一阶段火箭，大大降低了发射成本。</p>\n\n<p><strong>【节目中提到的公司】</strong></p>\n\n<p><strong>Vast ：</strong>Vast 是一家美国私营航天公司，成立于 2021 年，致力于开发人工重力空间站，以实现长期人类太空居住。Vast 的第一个项目是 Haven-1，这是世界上第一个商业空间站，计划于 2025 年通过 SpaceX 的 Falcon 9 火箭发射到近地轨道。该空间站设计为支持长达 30 天的商业飞行任务，并提供科学研究和太空制造的机会。</p>\n\n<p><strong>Zona：</strong>专注于开发下一代全球定位系统 (GPS) 技术的公司，致力于提供更高精度和可靠性的定位服务。</p>\n\n<p><strong>Varda：</strong>一家太空制造公司，专注于在太空中制造地球上无法生产的高价值材料。其目标是利用微重力环境生产高性能材料和药物。</p>\n\n<p><strong>Sierra Space：</strong> Sierra Space 是 Sierra Nevada Corporation 的子公司，专注于商业空间运输服务的开发和提供。该公司开发了 Dream Chaser 太空飞机，旨在为 NASA 和其他客户提供低成本的货物和乘员运输解决方案。</p>\n\n<p><strong>Blue Origin：</strong> Blue Origin 是由亚马逊创始人 Jeff Bezos 创立的私人航天公司，致力于降低进入太空的成本，并使太空旅行更加普及。Blue Origin 开发了 New Shepard 和 New Glenn 火箭，目标是为载人和货物任务提供可靠的发射服务。</p>\n\n<p><strong>【监制】</strong><br>\nHoliday<br>\n<strong>【后期】</strong><br>\nAMEI<br>\n<strong>【shownotes】</strong><br>\nHoliday<br>\n<strong>【BGM】</strong><br>\nAlteration - Karoliina Gabel<br>\nListen to the Forest Weep - Hanna Lindgren</p>\n\n<p><strong>【在这里找到我们】</strong><br>\n公众号：硅谷101<br>\n收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客<br>\n海外用户：Apple Podcast｜Spotify｜TuneIn｜Youtube｜Amazon Music<br>\n联系我们：<a href=\"mailto:podcast@sv101.net\" rel=\"nofollow\">podcast@sv101.net</a></p>\n\n<p>本期节目仅代表嘉宾个人观点</p><p>Special Guest: Lewis Hong.</p>",
+      "description": "2024年6月6日，马斯克的重型火箭星舰完成第四次试飞，这次试飞成功在印度洋软着陆。马斯克在X上写道，这次试飞的主要目标就是星舰在重返时能够经受住最高温的灼烧。正如马斯克所预料的，这次星舰的整个发射过程相比于前三次更加顺利，但在重返大气层时，镜头因为高温严重损毁，直播信号中断，星舰襟翼受损、丢失了很多陶瓷瓦片。所以虽然星舰这次完成了软着陆，但是舰体损毁没有办法重复使用。\n然而对于很多太空迷来说，星舰的第四次试飞是一个巨大的进步，人类离太空又进了一步。今天我们就来聊聊星舰的这次发射，和星舰衍生的太空产业。\n关于星舰与猎鹰九号有何不同、星舰是如何造出来的，以及星舰的起源与商业化目标，可以去听我们跟Lewis聊的第106期节目。\n【主播】\n泓君Jane，硅谷101创始人，播客主理人\n陈茜，硅谷101联合创始人，视频主理人\n【嘉宾】\nLewis Hong，FP Solutions的创始管理合伙人，SpaceX前高管\n【你将听到】\n02:39 复盘星舰的第四次发射，里程碑式的一步：成功进入轨道，完成任务并成功返回\n04:23 星舰第一次发射（2023年4月20日）：上升阶段在空中炸了\n06:44 星舰第二次发射（2023年11月18日）：修复了发射台，进入太空后炸了\n10:14 星舰第三次发射（2024年3月14日）：成功发射进入轨道，但回到大气层的时候炸了\n12:28 一只星舰1亿美元，SpaceX够炸多少次？\n14:30 星舰体系获得了监管信任，今年的目标是发9次\n17:45 虽然没能回收，但星舰的四飞已经实现了火箭开发的70%\n20:05 从70%到90%可能的难题：运算准确度、架构、星舰体积大\n24:45 空中加油是天方夜谭吗？\n26:20 SpaceX基于星舰的新商业模式：星链、太空站\n28:31太空产业的新动向：太空通讯网络、低轨基建、可控引力太空站\n32:26 太空生产公司Varda：做地球上做不出来的材料，比如替药厂做R&D\n35:00 月球热、NASA和星舰的2026登月计划\n39:37 SpaceX mafia：一些SpaceX离职员工们成立的公司\n41:45 Vast：做有地心引力的太空站\n44:16 Zona在做新一代GPS：不止星链在做卫星监测\n47:23 汇集大厂前员工们的新公司：AI+太空数据+材料工厂\n49:15 低轨卫星赛道的其他公司：波音、Sierra Space、Blue Origin\n53:43 SpaceX和Tesla在美国培养出了新一代的硬件创业者\n55:50 硬件创业对比：少量、多样、自动化\n59:33 互相帮衬的SpaceX mafia与Tesla mafia\n【相关单集】\nE106｜真正造星舰的人来了，与SpaceX前高管聊聊马斯克的火星计划\nS2E64 | 韦伯升空看向宇宙最黑暗处，星链锁死地面天文观测\nS2E45｜下一站，太空！美国亿万富翁的太空竞赛\n【名词解释】\nFAA (Federal Aviation Administration) ：The Federal Aviation Administration (FAA) 是美国交通部下属的联邦政府机构，负责监管美国及周边国际水域的民用航空。其主要职责包括空中交通管制、航空人员和飞机的认证、制定机场标准，以及在商业航天器发射或重新进入时保护美国资产。\n第一原理：一种基于基本概念或公理的思维方式，用于分析和解决问题。它要求通过最基本和最基本的真理来推导结论，而不是依赖于传统的假设或惯例。这种方法常用于科学和工程领域，以寻找最有效的解决方案。Elon Musk 是这种思维方式的著名倡导者，特别是在他开发 SpaceX 和 Tesla 产品的过程中。\n国际太空站ISS：是一个由多个国家合作建立和运营的空间站，主要用于科学研究和技术试验。它在地球的低轨道运行，提供一个微重力环境，用于各种科学实验。ISS 的主要合作伙伴包括美国国家航空航天局 (NASA)、俄罗斯联邦航天局 (Roscosmos)、欧洲航天局 (ESA)、日本宇宙航空研究开发机构 (JAXA) 和加拿大航天局 (CSA)。\nNASA登月计划：NASA 的登月计划包括“阿尔忒弥斯计划”，目标2026年将人类重新送上月球，并最终为火星探测任务做准备。\nSpace Launch System (SLS) ：美国国家航空航天局 (NASA) 开发的一种超级重型运载火箭，旨在支持深空探测任务。它是阿尔忒弥斯计划的重要组成部分，设计用于将宇航员和货物送往月球、火星及其他深空目的地。\n猎鹰9号 (Falcon 9) ：是一种可重复使用的火箭，旨在将卫星和其他有效载荷送入地球轨道，并将货物和宇航员送往国际空间站 (ISS)。它是全球首个能够部分重复使用的大型火箭系统，通过回收和再次使用第一阶段火箭，大大降低了发射成本。\n【节目中提到的公司】\nVast ：Vast 是一家美国私营航天公司，成立于 2021 年，致力于开发人工重力空间站，以实现长期人类太空居住。Vast 的第一个项目是 Haven-1，这是世界上第一个商业空间站，计划于 2025 年通过 SpaceX 的 Falcon 9 火箭发射到近地轨道。该空间站设计为支持长达 30 天的商业飞行任务，并提供科学研究和太空制造的机会。\nZona：专注于开发下一代全球定位系统 (GPS) 技术的公司，致力于提供更高精度和可靠性的定位服务。\nVarda：一家太空制造公司，专注于在太空中制造地球上无法生产的高价值材料。其目标是利用微重力环境生产高性能材料和药物。\nSierra Space： Sierra Space 是 Sierra Nevada Corporation 的子公司，专注于商业空间运输服务的开发和提供。该公司开发了 Dream Chaser 太空飞机，旨在为 NASA 和其他客户提供低成本的货物和乘员运输解决方案。\nBlue Origin： Blue Origin 是由亚马逊创始人 Jeff Bezos 创立的私人航天公司，致力于降低进入太空的成本，并使太空旅行更加普及。Blue Origin 开发了 New Shepard 和 New Glenn 火箭，目标是为载人和货物任务提供可靠的发射服务。\n【监制】\nHoliday\n【后期】\nAMEI\n【shownotes】\nHoliday\n【BGM】\nAlteration - Karoliina Gabel\nListen to the Forest Weep - Hanna Lindgren\n【在这里找到我们】\n公众号：硅谷101\n收听渠道：苹果｜小宇宙｜喜马拉雅｜蜻蜓FM｜网易云音乐｜QQ音乐｜荔枝播客\n海外用户：Apple Podcast｜Spotify｜TuneIn｜Youtube｜Amazon Music\n联系我们：podcast@sv101.net\n本期节目仅代表嘉宾个人观点\nSpecial Guest: Lewis Hong.",
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/5e5c52c9418a84a04625e6cc/ljkE6ixjG49ixvwF_JYuSmfTpGki.mp3"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/adafbc40-f694-405a-b501-2041b378a261.mp3",
+      "media": {
+        "id": "/d/1437767933/f0f20376-8faf-4940-b920-84af6c734e2d/adafbc40-f694-405a-b501-2041b378a261.mp3",
+        "size": 88231429,
+        "mimeType": "audio/mpeg",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e5c52c9418a84a04625e6cc/ljkE6ixjG49ixvwF_JYuSmfTpGki.mp3"
+        }
+      },
+      "clapCount": 5,
+      "commentCount": 18,
+      "playCount": 2669,
+      "favoriteCount": 38,
+      "pubDate": "2024-06-14T00:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 3675,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e5c52c9418a84a04625e6cc",
+        "title": "硅谷101",
+        "author": "硅谷101",
+        "brief": "分享当下最新鲜的技术、知识与思想",
+        "description": "失败、背叛、不被理解，硅谷精神领袖一直都不是完美的存在；他们是科学家，创造者，行动派，他们有独立的价值观。《硅谷101》是由媒体人泓君发起的深度访谈节目，是一档分享当下最新鲜的技术、知识与思想的科技播客。\n公众账号：硅谷101\n联系邮箱：podcast@sv101.net",
+        "subscriptionCount": 194124,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2YvZjBmMjAzNzYtOGZhZi00OTQwLWI5MjAtODRhZjZjNzM0ZTJkL2NvdmVyLmpwZw==.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2YvZjBmMjAzNzYtOGZhZi00OTQwLWI5MjAtODRhZjZjNzM0ZTJkL2NvdmVyLmpwZw==.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2YvZjBmMjAzNzYtOGZhZi00OTQwLWI5MjAtODRhZjZjNzM0ZTJkL2NvdmVyLmpwZw==.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2YvZjBmMjAzNzYtOGZhZi00OTQwLWI5MjAtODRhZjZjNzM0ZTJkL2NvdmVyLmpwZw==.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzL2YvZjBmMjAzNzYtOGZhZi00OTQwLWI5MjAtODRhZjZjNzM0ZTJkL2NvdmVyLmpwZw==.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#FB5B05",
+          "light": "#F75F1A",
+          "dark": "#F75F1A"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 159,
+        "latestEpisodePubDate": "2024-06-14T00:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5e7da193a2f2e503cec4a905",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fulk2P9-IrWRZGaX1ZjysiQVDTI9",
+                "largePicUrl": "https://image.xyzcdn.net/Fulk2P9-IrWRZGaX1ZjysiQVDTI9@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fulk2P9-IrWRZGaX1ZjysiQVDTI9@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fulk2P9-IrWRZGaX1ZjysiQVDTI9@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fulk2P9-IrWRZGaX1ZjysiQVDTI9@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "泓君Jane",
+            "isNicknameSet": false,
+            "bio": "",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "美国",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "硅谷101",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "jike",
+            "name": "泓君Jane",
+            "url": "https://m.okjike.com/users/8C006F6E-5A32-4970-A7FF-463D634CE6DA"
+          },
+          {
+            "type": "email",
+            "name": "podcast@sv101.net"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "美国",
+      "transcript": {
+        "mediaId": "5e5c52c9418a84a04625e6cc/ljkE6ixjG49ixvwF_JYuSmfTpGki.mp3"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "666ab06dc26e396a368221e4",
+      "pid": "62a173b4d8549c5c07cc5cb4",
+      "title": "谁来听我的演唱会 ——一期游荡在理性与非理性间的KTV节目",
+      "shownotes": "<p><strong>主播：Nadya 西蒙 老李</strong></p>\n<p>为了想起曾经的故事，为了找回当年的感觉，为了解开心中的谜团，时隔多年，我们重聚KTV。在本期节目中我们不仅要分享趣事，还将为大家献上我们现场演唱的劲歌热曲，不管好不好，都希望你来听我们的演唱会。</p>\n<p><strong>本期图文时间轴链接：</strong><a href=\"https://site.gcores.com/console_timelines/?original_id=183120\">https://site.gcores.com/console_timelines/?original_id=183120</a></p>",
+      "description": "主播：Nadya 西蒙 老李\n为了想起曾经的故事，为了找回当年的感觉，为了解开心中的谜团，时隔多年，我们重聚KTV。在本期节目中我们不仅要分享趣事，还将为大家献上我们现场演唱的劲歌热曲，不管好不好，都希望你来听我们的演唱会。\n本期图文时间轴链接：https://site.gcores.com/console_timelines/?original_id=183120",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRHNucEQwWWRQX0pSQkRqSlREQmRlcmRoWUIucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRHNucEQwWWRQX0pSQkRqSlREQmRlcmRoWUIucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRHNucEQwWWRQX0pSQkRqSlREQmRlcmRoWUIucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRHNucEQwWWRQX0pSQkRqSlREQmRlcmRoWUIucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrRHNucEQwWWRQX0pSQkRqSlREQmRlcmRoWUIucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/liodzm63Ez-57OzX34Ss7A9fxQ2D.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "liodzm63Ez-57OzX34Ss7A9fxQ2D.m4a",
+      "media": {
+        "id": "liodzm63Ez-57OzX34Ss7A9fxQ2D.m4a",
+        "size": 76849011,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/liodzm63Ez-57OzX34Ss7A9fxQ2D.m4a"
+        }
+      },
+      "clapCount": 22,
+      "commentCount": 32,
+      "playCount": 717,
+      "favoriteCount": 8,
+      "pubDate": "2024-06-13T15:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 4751,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "62a173b4d8549c5c07cc5cb4",
+        "title": "机核生活频道",
+        "author": "机核网 www.gcores.com",
+        "brief": "机核网出品的生活闲聊节目",
+        "description": "机核网出品的Gadio Life是一档生活闲聊播客节目，分享各种生活中的奇闻异事。 欢迎访问官方网站www.gcores.com\n\n为方便各平台用户收听不同种类的节目，我们将节目按照内容和题材进行了重新整理。游戏新闻、游戏茶活会和Gadio Story等游戏垂直类节目会继续保持在主频道[Gadio] 更新， [Gadio Pro] 、[Gadio Life]、 [核市奇谭]、[银屏系漫游指南]等节目未来将分别作为单独的频道发布节目。我们对因此而给大家带来的不便深表制意，同时也请继续支持Gadio，我们会一如既往的继续制作更多更好的播客节目，谢谢大家!\n",
+        "subscriptionCount": 16018,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodkxPSU80eElCUTlmelQ3ODFEbDZmZExpMncuanBn.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodkxPSU80eElCUTlmelQ3ODFEbDZmZExpMncuanBn.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodkxPSU80eElCUTlmelQ3ODFEbDZmZExpMncuanBn.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodkxPSU80eElCUTlmelQ3ODFEbDZmZExpMncuanBn.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZodkxPSU80eElCUTlmelQ3ODFEbDZmZExpMncuanBn.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#29BFB1",
+          "light": "#04D9C9",
+          "dark": "#04D9C9"
+        },
+        "hasTopic": true,
+        "topicLabels": [],
+        "syncMode": "SELF_HOSTING",
+        "episodeCount": 432,
+        "latestEpisodePubDate": "2024-06-13T15:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5fb1efede0f5e723bb87ab4c",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FjmHlxqQiQN4d_jwbWSFMOjSrr-f.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FjmHlxqQiQN4d_jwbWSFMOjSrr-f.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FjmHlxqQiQN4d_jwbWSFMOjSrr-f.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FjmHlxqQiQN4d_jwbWSFMOjSrr-f.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FjmHlxqQiQN4d_jwbWSFMOjSrr-f.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "ryoma",
+            "isNicknameSet": false,
+            "bio": "",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "63da119dedce67104a00074d",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fi3_btOUWrNUPgpEBtdew3XbxJ3V.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fi3_btOUWrNUPgpEBtdew3XbxJ3V.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fi3_btOUWrNUPgpEBtdew3XbxJ3V.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fi3_btOUWrNUPgpEBtdew3XbxJ3V.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fi3_btOUWrNUPgpEBtdew3XbxJ3V.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 1080,
+                "height": 1080
+              }
+            },
+            "nickname": "机核网GADIO",
+            "isNicknameSet": true,
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5e7c6832b3c5bca5f6411842",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fkca4GJCShvqtR3wFFTR2nTti2Zg",
+                "largePicUrl": "https://image.xyzcdn.net/Fkca4GJCShvqtR3wFFTR2nTti2Zg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fkca4GJCShvqtR3wFFTR2nTti2Zg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fkca4GJCShvqtR3wFFTR2nTti2Zg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fkca4GJCShvqtR3wFFTR2nTti2Zg@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "赵夏",
+            "isNicknameSet": false,
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "@机核",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "@机核网",
+            "url": "https://weibo.com/n/@机核网"
+          },
+          {
+            "type": "email",
+            "name": "gadio@gcores.com",
+            "note": "商务合作"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "transcript": {
+        "mediaId": "liodzm63Ez-57OzX34Ss7A9fxQ2D.m4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "666aeb087ddc684083bf1a54",
+      "pid": "5e2831ed418a84a046231c00",
+      "title": "#299 墨西哥的「血腥大选」：黑帮暴力与大国阴影下的政治觉醒 丨 2024 大选系列",
+      "shownotes": "<p>墨西哥大选在 2024 年 6 月 2 日结束了。这届大选有很多不寻常的地方。</p>\n\n<p>首先是选出了国家历史上首位女总统，左翼政党以压倒性胜利取得连任。在一个就业机会、社会环境对女性不友好的社会中，为何会诞生女总统？在全球右翼崛起的背景下，为什么墨西哥左派能以 30 个百分点的优势取得连任？</p>\n\n<p>其次在地方选举中，黑帮为了创造有利局面，枪杀了数十名承诺改善治安的候选人，吓得很多人干脆直接退选。面对黑帮的暴力干选，为何政府束手无策？地方政治沦陷后，墨西哥又要如何面在美国的施压下处理边境问题，发展本国经济发展？</p>\n\n<p>最核心的问题是，当墨西哥既与美国接壤，经济又高度依赖美国时，本国政治也不可避免被美国影响。当我们观察这届不寻常的墨西哥大选时，会看到一个处于大国阴影中的发展中国家，在如何探索自己的政治道路。</p>\n\n<p><strong>本期人物</strong><br>\nGabriel Yin，声东击西主播、媒体人 <br>\n曹廷，复旦大学国际问题研究院拉美研究室副主任，著有《墨西哥史话》</p>\n\n<p><strong>主要话题</strong><br>\n[01:50] 墨西哥史上首位女总统是何许人也？<br>\n[03:15] 辛鲍姆胜选的关键：前总统洛佩斯<br>\n[07:08] 为什么男权色彩浓厚的墨西哥会选出女总统<br>\n[15:02] 拉美国家都在「左右横跳」，为什么墨西哥左翼能连任？<br>\n[17:18] 伴随大选展开的「血腥屠杀」<br>\n[20:35] 为什么犯罪势力如此猖獗？<br>\n[26:09] 墨西哥经济中的奇特现象：侨民汇款<br>\n[30:43] 对美国经济的高度依赖<br>\n[32:12] 边境问题上不得不面对的压力<br>\n[40:07] 当所有问题都有外部干扰，左翼民粹开始兴起<br>\n[43:11] 输在起跑线上的墨西哥<br>\n[49:04] 美国「友岸外包」是一把双刃剑<br>\n[50:16] 墨西哥人身份认同中的美国角色</p>\n\n<p><strong>延伸阅读</strong><br>\n<a href=\"https://book.douban.com/subject/36579862/\" rel=\"nofollow\">墨西哥史话</a><br>\n<a href=\"https://book.douban.com/subject/25946553/\" rel=\"nofollow\">孤独的迷宫</a></p>\n\n<p><strong>幕后制作</strong><br>\n监制：Gabriel Yin、东君<br>\n后期：赛德<br>\n运营：George<br>\n设计：饭团</p>\n\n<p><strong>商务合作</strong><br>\n<a href=\"https://sourl.cn/6vdmQT\" rel=\"nofollow\">声动活泼商务合作咨询</a></p>\n\n<p><strong>支持我们，加入新一年的播客创新</strong><br>\n2021 年我们发起了「声动胡同会员计划」，这是一个纯支持项目，支持「声动活泼」在播客内容上不断探索和创新。回顾 2023 年，得益于这些支持，「声动活泼」的每档节目都不断突破，不仅荣登苹果中国的年度热门节目榜单，还在 CPA 和喜马拉雅等平台都榜上有名。<br>\n2024 年全新付费节目「<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow\">不止金钱</a>」现已上线，欢迎收听。同时，新一季「跳进兔子洞」即将上线，敬请期待！<br>\n欢迎 <a href=\"https://sourl.cn/iPpsuJ\" rel=\"nofollow\">点击链接</a> 查看我们 2023 年收获和 2024 年内容计划。如果你认同或喜欢我们做的事情，也期待我们不断尝试并产生好内容，欢迎付费支持。<br>\n<img src=\"https://files.fireside.fm/file/fireside-uploads/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/JhkPvKIa.png\" alt=\"胡同\"></p>\n\n<p>​</p>\n\n<p><strong>关于声动活泼</strong><br>\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。<br>\n我们还有这些播客：<a href=\"https://etw.fm/episodes\" rel=\"nofollow\">声东击西</a>、<a href=\"https://sheng-espresso.fireside.fm/\" rel=\"nofollow\">声动早咖啡</a>、<a href=\"https://guiguzaozhidao.fireside.fm/episodes\" rel=\"nofollow\">What&#39;s Next｜科技早知道</a>、<a href=\"https://fanchaoliuclub.fireside.fm/\" rel=\"nofollow\">反潮流俱乐部</a>、<a href=\"https://popvc.fireside.fm/\" rel=\"nofollow\">泡腾 VC</a>、<a href=\"https://msbussinesswhy.fireside.fm/\" rel=\"nofollow\">商业WHY酱</a>、<a href=\"https://therabbithole.fireside.fm/\" rel=\"nofollow\">跳进兔子洞</a>、<a href=\"https://www.xiaoyuzhoufm.com/podcast/65a625966d045a7f5e0b5640\" rel=\"nofollow\">不止金钱</a></p>\n\n<p>欢迎在<a href=\"https://okjk.co/Qd43ia\" rel=\"nofollow\">即刻</a>、微博等社交媒体上与我们互动，搜索 <strong>声动活泼</strong> 即可找到我们。</p>\n\n<p>期待你给我们写邮件，邮箱地址是：<a href=\"mailto:ting@sheng.fm\" rel=\"nofollow\">ting@sheng.fm</a> </p>\n\n<p>欢迎扫码添加声小音，在节目之外和我们保持联系！<br>\n<img src=\"https://files.fireside.fm/file/fireside-uploads/images/8/8dd8a56f-9636-415a-8c00-f9ca6778e511/hdvzQQ2r.png\" alt=\"声小音\"></p><p>Special Guest: 曹廷.</p>",
+      "description": "墨西哥大选在 2024 年 6 月 2 日结束了。这届大选有很多不寻常的地方。\n首先是选出了国家历史上首位女总统，左翼政党以压倒性胜利取得连任。在一个就业机会、社会环境对女性不友好的社会中，为何会诞生女总统？在全球右翼崛起的背景下，为什么墨西哥左派能以 30 个百分点的优势取得连任？\n其次在地方选举中，黑帮为了创造有利局面，枪杀了数十名承诺改善治安的候选人，吓得很多人干脆直接退选。面对黑帮的暴力干选，为何政府束手无策？地方政治沦陷后，墨西哥又要如何面在美国的施压下处理边境问题，发展本国经济发展？\n最核心的问题是，当墨西哥既与美国接壤，经济又高度依赖美国时，本国政治也不可避免被美国影响。当我们观察这届不寻常的墨西哥大选时，会看到一个处于大国阴影中的发展中国家，在如何探索自己的政治道路。\n本期人物\nGabriel Yin，声东击西主播、媒体人\n曹廷，复旦大学国际问题研究院拉美研究室副主任，著有《墨西哥史话》\n主要话题\n[01:50] 墨西哥史上首位女总统是何许人也？\n[03:15] 辛鲍姆胜选的关键：前总统洛佩斯\n[07:08] 为什么男权色彩浓厚的墨西哥会选出女总统\n[15:02] 拉美国家都在「左右横跳」，为什么墨西哥左翼能连任？\n[17:18] 伴随大选展开的「血腥屠杀」\n[20:35] 为什么犯罪势力如此猖獗？\n[26:09] 墨西哥经济中的奇特现象：侨民汇款\n[30:43] 对美国经济的高度依赖\n[32:12] 边境问题上不得不面对的压力\n[40:07] 当所有问题都有外部干扰，左翼民粹开始兴起\n[43:11] 输在起跑线上的墨西哥\n[49:04] 美国「友岸外包」是一把双刃剑\n[50:16] 墨西哥人身份认同中的美国角色\n延伸阅读\n墨西哥史话\n孤独的迷宫\n幕后制作\n监制：Gabriel Yin、东君\n后期：赛德\n运营：George\n设计：饭团\n商务合作\n声动活泼商务合作咨询\n支持我们，加入新一年的播客创新\n2021 年我们发起了「声动胡同会员计划」，这是一个纯支持项目，支持「声动活泼」在播客内容上不断探索和创新。回顾 2023 年，得益于这些支持，「声动活泼」的每档节目都不断突破，不仅荣登苹果中国的年度热门节目榜单，还在 CPA 和喜马拉雅等平台都榜上有名。\n2024 年全新付费节目「不止金钱」现已上线，欢迎收听。同时，新一季「跳进兔子洞」即将上线，敬请期待！\n欢迎 点击链接 查看我们 2023 年收获和 2024 年内容计划。如果你认同或喜欢我们做的事情，也期待我们不断尝试并产生好内容，欢迎付费支持。\n[胡同]\n​\n关于声动活泼\n「用声音碰撞世界」，声动活泼致力于为人们提供源源不断的思考养料。\n我们还有这些播客：声东击西、声动早咖啡、What's Next｜科技早知道、反潮流俱乐部、泡腾 VC、商业WHY酱、跳进兔子洞、不止金钱\n欢迎在即刻、微博等社交媒体上与我们互动，搜索 声动活泼 即可找到我们。\n期待你给我们写邮件，邮箱地址是：ting@sheng.fm\n欢迎扫码添加声小音，在节目之外和我们保持联系！\n[声小音]\nSpecial Guest: 曹廷.",
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/5e2831ed418a84a046231c00/lnqKQP3fBB_6glqahZvomH2zx1cg.mp3"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/7e32bda1-dde5-4c09-9ce2-47410ae66841.mp3",
+      "media": {
+        "id": "/track/GGD9D/aphid.fireside.fm/d/1437767933/8dd8a56f-9636-415a-8c00-f9ca6778e511/7e32bda1-dde5-4c09-9ce2-47410ae66841.mp3",
+        "size": 53537226,
+        "mimeType": "audio/mpeg",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e2831ed418a84a046231c00/lnqKQP3fBB_6glqahZvomH2zx1cg.mp3"
+        }
+      },
+      "clapCount": 59,
+      "commentCount": 41,
+      "playCount": 6675,
+      "favoriteCount": 66,
+      "pubDate": "2024-06-13T12:45:00.000Z",
+      "status": "NORMAL",
+      "duration": 3346,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e2831ed418a84a046231c00",
+        "title": "声东击西",
+        "author": "ETW Studio",
+        "brief": "对话有趣有料，带来启发的专业人士",
+        "description": "世界宽广，但人们被日常及社交媒体所限制。\n那就让作为记者的我们，帮你推开一些意想不到的窗户，触及不一样的信息，激发不一样的思考。\n在这里，我们对话各种有趣有料，能带来启发的专业人士，也不定期会有神秘嘉宾出现。\n我们也时不时做各种和声音有关的尝试，打开一些新体验。\n支持我们，请大家移步 https://etw.fm/donation 。\n本节目由声动活泼制作播出。",
+        "subscriptionCount": 408012,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzgvOGRkOGE1NmYtOTYzNi00MTVhLThjMDAtZjljYTY3NzhlNTExL2NvdmVyLmpwZw==.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzgvOGRkOGE1NmYtOTYzNi00MTVhLThjMDAtZjljYTY3NzhlNTExL2NvdmVyLmpwZw==.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzgvOGRkOGE1NmYtOTYzNi00MTVhLThjMDAtZjljYTY3NzhlNTExL2NvdmVyLmpwZw==.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzgvOGRkOGE1NmYtOTYzNi00MTVhLThjMDAtZjljYTY3NzhlNTExL2NvdmVyLmpwZw==.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9hc3NldHMuZmlyZXNpZGUuZm0vZmlsZS9maXJlc2lkZS1pbWFnZXMvcG9kY2FzdHMvaW1hZ2VzLzgvOGRkOGE1NmYtOTYzNi00MTVhLThjMDAtZjljYTY3NzhlNTExL2NvdmVyLmpwZw==.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#FB343C",
+          "light": "#EE4B4A",
+          "dark": "#EE4B4A"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 311,
+        "latestEpisodePubDate": "2024-06-13T12:45:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5e7dc6401bfbbc3dad81c666",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fm8J_2LojPtYN-ygvF82o2EVAqa-",
+                "largePicUrl": "https://image.xyzcdn.net/Fm8J_2LojPtYN-ygvF82o2EVAqa-@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fm8J_2LojPtYN-ygvF82o2EVAqa-@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fm8J_2LojPtYN-ygvF82o2EVAqa-@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fm8J_2LojPtYN-ygvF82o2EVAqa-@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "徐涛丨声动活泼",
+            "isNicknameSet": false,
+            "bio": "正在学习幽默的机器人一枚。声东击西丨科技早知道丨反潮流俱乐部丨到海外去",
+            "gender": "THIRD",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "美国",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5e7f14741bfbbc3dad82e982",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FjfLaqIrcnboh0iiJkGnvnyQH7mr",
+                "largePicUrl": "https://image.xyzcdn.net/FjfLaqIrcnboh0iiJkGnvnyQH7mr@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FjfLaqIrcnboh0iiJkGnvnyQH7mr@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FjfLaqIrcnboh0iiJkGnvnyQH7mr@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FjfLaqIrcnboh0iiJkGnvnyQH7mr@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "Selina_SS",
+            "isNicknameSet": true,
+            "bio": "对世界保持本能的天真和好奇心",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "河北",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "603dff5fe0f5e723bb6df3af",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FpIVTlyPDfQp7RDR_1hVCZHbHobB",
+                "largePicUrl": "https://image.xyzcdn.net/FpIVTlyPDfQp7RDR_1hVCZHbHobB@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FpIVTlyPDfQp7RDR_1hVCZHbHobB@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FpIVTlyPDfQp7RDR_1hVCZHbHobB@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FpIVTlyPDfQp7RDR_1hVCZHbHobB@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "声动活泼的声小音",
+            "isNicknameSet": false,
+            "bio": "建议反馈/加听众群/合作指路（shengfm1），欢迎交流！",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "声动活泼",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "声动活泼",
+            "url": "https://weibo.com/n/声动活泼"
+          },
+          {
+            "type": "jike",
+            "name": "声动活泼即建队",
+            "url": "https://m.okjike.com/users/C4EA02AF-6BB6-405E-91B5-9B6FCAB7CA5A"
+          },
+          {
+            "type": "email",
+            "name": "ting@sheng.fm"
+          },
+          {
+            "type": "custom",
+            "name": "商务合作咨询",
+            "url": "https://sourl.cn/6vdmQT"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "transcript": {
+        "mediaId": "5e2831ed418a84a046231c00/lnqKQP3fBB_6glqahZvomH2zx1cg.mp3"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "666ac2fe7ddc684083b38f93",
+      "pid": "619317e62d79d9def67c432c",
+      "title": "Vol.158 两轮承载灵魂！第七骑：四肢护具",
+      "shownotes": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">第七骑，我们再聊聊骑行时候的四肢护具！<br></p>",
+      "description": "第七骑，我们再聊聊骑行时候的四肢护具！",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iNzBmLWF1ZGlvZnJlZWhpZ2hxcHMvRkYvMzcvR01Db09SNEtRRnhFQUFVYmx3TGhCbEtqLmpwZWc=.jpeg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iNzBmLWF1ZGlvZnJlZWhpZ2hxcHMvRkYvMzcvR01Db09SNEtRRnhFQUFVYmx3TGhCbEtqLmpwZWc=.jpeg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iNzBmLWF1ZGlvZnJlZWhpZ2hxcHMvRkYvMzcvR01Db09SNEtRRnhFQUFVYmx3TGhCbEtqLmpwZWc=.jpeg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iNzBmLWF1ZGlvZnJlZWhpZ2hxcHMvRkYvMzcvR01Db09SNEtRRnhFQUFVYmx3TGhCbEtqLmpwZWc=.jpeg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9iNzBmLWF1ZGlvZnJlZWhpZ2hxcHMvRkYvMzcvR01Db09SNEtRRnhFQUFVYmx3TGhCbEtqLmpwZWc=.jpeg@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://jt.ximalaya.com//GKwRINsKQFy1AZVozALhBo8H.m4a?channel=rss&album_id=50195982&track_id=734652829&uid=144463711&jt=https://audio.xmcdn.com/storages/df6d-audiofreehighqps/D1/21/GKwRINsKQFy1AZVozALhBo8H.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "//GKwRINsKQFy1AZVozALhBo8H.m4a?channel=rss&album_id=50195982&track_id=734652829&uid=144463711&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2Fdf6d-audiofreehighqps%2FD1%2F21%2FGKwRINsKQFy1AZVozALhBo8H.m4a",
+      "media": {
+        "id": "//GKwRINsKQFy1AZVozALhBo8H.m4a?channel=rss&album_id=50195982&track_id=734652829&uid=144463711&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2Fdf6d-audiofreehighqps%2FD1%2F21%2FGKwRINsKQFy1AZVozALhBo8H.m4a",
+        "size": 78769840,
+        "mimeType": "audio/x-m4a",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://jt.ximalaya.com//GKwRINsKQFy1AZVozALhBo8H.m4a?channel=rss&album_id=50195982&track_id=734652829&uid=144463711&jt=https://audio.xmcdn.com/storages/df6d-audiofreehighqps/D1/21/GKwRINsKQFy1AZVozALhBo8H.m4a"
+        }
+      },
+      "clapCount": 0,
+      "commentCount": 0,
+      "playCount": 11,
+      "favoriteCount": 0,
+      "pubDate": "2024-06-13T09:55:00.000Z",
+      "status": "NORMAL",
+      "duration": 3282,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "619317e62d79d9def67c432c",
+        "title": "终声嗜好",
+        "author": "TKazuya",
+        "brief": "分享好玩有趣的生活嗜好",
+        "description": "【终声嗜好】是Kazuya的一档以声音为媒介每周四傍晚18点更新的电台系列，致力分享安利好玩有趣令人哑口无言开始思考的生活嗜好！",
+        "subscriptionCount": 1630,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jYTZmLWF1ZGlvZnJlZWhpZ2hxcHMvRDcvRkIvR01Db09TY0ZhTmpfQUFLZjhBRDN2RW1yLmpwZWc=.jpeg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jYTZmLWF1ZGlvZnJlZWhpZ2hxcHMvRDcvRkIvR01Db09TY0ZhTmpfQUFLZjhBRDN2RW1yLmpwZWc=.jpeg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jYTZmLWF1ZGlvZnJlZWhpZ2hxcHMvRDcvRkIvR01Db09TY0ZhTmpfQUFLZjhBRDN2RW1yLmpwZWc=.jpeg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jYTZmLWF1ZGlvZnJlZWhpZ2hxcHMvRDcvRkIvR01Db09TY0ZhTmpfQUFLZjhBRDN2RW1yLmpwZWc=.jpeg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy9jYTZmLWF1ZGlvZnJlZWhpZ2hxcHMvRDcvRkIvR01Db09TY0ZhTmpfQUFLZjhBRDN2RW1yLmpwZWc=.jpeg@thumbnail"
+        },
+        "color": {
+          "original": "#060604",
+          "light": "#9C9709",
+          "dark": "#9C9709"
+        },
+        "topicLabels": [],
+        "syncMode": "RSS",
+        "episodeCount": 159,
+        "latestEpisodePubDate": "2024-06-13T09:55:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "6168e5ade0f5e723bb1f4bc2",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FvcZgMh7Fniotkh33_Ek1xn4j0dM.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FvcZgMh7Fniotkh33_Ek1xn4j0dM.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FvcZgMh7Fniotkh33_Ek1xn4j0dM.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FvcZgMh7Fniotkh33_Ek1xn4j0dM.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FvcZgMh7Fniotkh33_Ek1xn4j0dM.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "Kazuya",
+            "isNicknameSet": false,
+            "bio": "In the grim dark future, there is only war.",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "广东",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "广东",
+      "transcript": {
+        "mediaId": "619317e62d79d9def67c432c/llPts0nBWYH_C7htX5ghhJJh_sno.mp4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "666a683ab6a841272966e89e",
+      "pid": "6344c676e152449a3edb9f0c",
+      "title": "【来点好的】“虽然画面稀烂，但它依然是年度独立游戏候选！” | 116",
+      "shownotes": "<p>【来点好的】“虽然画面稀烂，但它依然是年度独立游戏候选！” | 116</p>\n<p>参与人：阿肯、箱子、罗斯特</p>\n<p>OP：ANIMAL WELL Soundtrack - 01 ANIMAL WEL<br>\nED：Rabbit Jtacenda feat.夏铜子</p>\n\n<p>【来点好的】栏目，意图为大家分享大师们游玩后力荐的游戏作品。</p>\n<p>在本期节目中，大师们聊了聊最近但又没那么最近的游戏体验。其中既有公认的年度独立游戏候选，也有备受关注但褒贬不一的新作。是什么游戏让阿肯以一敌十爽快过瘾，又是什么游戏让众人疑问“这也算来点好的？”</p>\n<p>其中答案，尽在本期节目。</p>\n\n<p>主要游戏：</p>\n<p>- 动物井</p>\n<p>- 恶意不息</p>\n<p>- 书行者</p>\n<p>- 九日</p>\n<p>- 逆向坍塌 面包房行动</p>\n\n<p>公众号：走神大师</p>\n<p>Q群：814058569</p>\n<p>欢迎各位在评论区与我们互动，提出各种内容与方向上的建议与意见。如果喜欢我们的节目，欢迎将走神大师分享给自己的亲朋好友，大家的支持是我们持续走神的动力。</p>\n<p>没有你们就没有我们的今天！</p>",
+      "description": "【来点好的】“虽然画面稀烂，但它依然是年度独立游戏候选！” | 116\n参与人：阿肯、箱子、罗斯特\nOP：ANIMAL WELL Soundtrack - 01 ANIMAL WEL\nED：Rabbit Jtacenda feat.夏铜子\n【来点好的】栏目，意图为大家分享大师们游玩后力荐的游戏作品。\n在本期节目中，大师们聊了聊最近但又没那么最近的游戏体验。其中既有公认的年度独立游戏候选，也有备受关注但褒贬不一的新作。是什么游戏让阿肯以一敌十爽快过瘾，又是什么游戏让众人疑问“这也算来点好的？”\n其中答案，尽在本期节目。\n主要游戏：\n- 动物井\n- 恶意不息\n- 书行者\n- 九日\n- 逆向坍塌 面包房行动\n公众号：走神大师\nQ群：814058569\n欢迎各位在评论区与我们互动，提出各种内容与方向上的建议与意见。如果喜欢我们的节目，欢迎将走神大师分享给自己的亲朋好友，大家的支持是我们持续走神的动力。\n没有你们就没有我们的今天！",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrR1R2S0JxNExCTFN0dFBwRG1oclVqaldnQkcucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrR1R2S0JxNExCTFN0dFBwRG1oclVqaldnQkcucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrR1R2S0JxNExCTFN0dFBwRG1oclVqaldnQkcucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrR1R2S0JxNExCTFN0dFBwRG1oclVqaldnQkcucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZrR1R2S0JxNExCTFN0dFBwRG1oclVqaldnQkcucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/lju4V8Gj3Fso1UdqT2XbpFdMkoEj.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "lju4V8Gj3Fso1UdqT2XbpFdMkoEj.m4a",
+      "media": {
+        "id": "lju4V8Gj3Fso1UdqT2XbpFdMkoEj.m4a",
+        "size": 126789785,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/lju4V8Gj3Fso1UdqT2XbpFdMkoEj.m4a"
+        }
+      },
+      "clapCount": 0,
+      "commentCount": 5,
+      "playCount": 403,
+      "favoriteCount": 3,
+      "pubDate": "2024-06-13T09:30:00.000Z",
+      "status": "NORMAL",
+      "duration": 3939,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "6344c676e152449a3edb9f0c",
+        "title": "走神大师丨生于游戏，助你走神的生活播客",
+        "author": "佚名",
+        "brief": "游戏编辑搞副业。",
+        "description": "走神大师 | 生于游戏，助你走神的生活播客。目前常驻主持为：\n\n一位游戏编辑（但已经换工作）\n一位配音演员（但配谁谁去世）\n另一位游戏编辑（但不确定常驻）\n又一位游戏编辑（但换工作之后依然焦虑）\n……\n\n来信/投稿/聊天：1009681291@qq.com\n公众号：走神大师\n\n祝你天天开心，即使不走神也开心！",
+        "subscriptionCount": 3375,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyaUFkWkRNTGJySE1lVDJmZGhLNERWQjc1TksucG5n.png",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyaUFkWkRNTGJySE1lVDJmZGhLNERWQjc1TksucG5n.png@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyaUFkWkRNTGJySE1lVDJmZGhLNERWQjc1TksucG5n.png@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyaUFkWkRNTGJySE1lVDJmZGhLNERWQjc1TksucG5n.png@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZyaUFkWkRNTGJySE1lVDJmZGhLNERWQjc1TksucG5n.png@thumbnail"
+        },
+        "color": {
+          "original": "#0D0D0D",
+          "light": "#ACACAC",
+          "dark": "#0B0B0B"
+        },
+        "topicLabels": [],
+        "syncMode": "SELF_HOSTING",
+        "episodeCount": 117,
+        "latestEpisodePubDate": "2024-06-13T09:30:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "6344c5ebedce67104afeb31c",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fg46f2itL16cRnKfHhDPBSan3Lii.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fg46f2itL16cRnKfHhDPBSan3Lii.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fg46f2itL16cRnKfHhDPBSan3Lii.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fg46f2itL16cRnKfHhDPBSan3Lii.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fg46f2itL16cRnKfHhDPBSan3Lii.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 1000,
+                "height": 1000
+              }
+            },
+            "nickname": "罗斯特1904",
+            "isNicknameSet": true,
+            "bio": "",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "上海",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5fd32010e0f5e723bb9b5acc",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FiueeHFWqJz2QJ1F-ve8MRkVwP6K.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FiueeHFWqJz2QJ1F-ve8MRkVwP6K.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FiueeHFWqJz2QJ1F-ve8MRkVwP6K.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FiueeHFWqJz2QJ1F-ve8MRkVwP6K.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FiueeHFWqJz2QJ1F-ve8MRkVwP6K.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "西西不吃西瓜",
+            "isNicknameSet": true,
+            "bio": "",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "上海",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "62de5d24edce67104a4b9835",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FllKvKMwrzYFFwblplqMP2mgFErw.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FllKvKMwrzYFFwblplqMP2mgFErw.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FllKvKMwrzYFFwblplqMP2mgFErw.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FllKvKMwrzYFFwblplqMP2mgFErw.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FllKvKMwrzYFFwblplqMP2mgFErw.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 640,
+                "height": 640
+              }
+            },
+            "nickname": "九十玖",
+            "isNicknameSet": true,
+            "gender": "THIRD",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "上海",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "61ea27342cbd7c0176bebe73",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FuE037BTWLy8-ad-B7pPA7-ymzv0",
+                "largePicUrl": "https://image.xyzcdn.net/FuE037BTWLy8-ad-B7pPA7-ymzv0@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FuE037BTWLy8-ad-B7pPA7-ymzv0@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FuE037BTWLy8-ad-B7pPA7-ymzv0@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FuE037BTWLy8-ad-B7pPA7-ymzv0@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "小黄书",
+            "isNicknameSet": true,
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "四川",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "走神大师",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "LostYao",
+            "url": "https://weibo.com/n/LostYao"
+          },
+          {
+            "type": "email",
+            "name": "1009681291@qq.com"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "上海",
+      "transcript": {
+        "mediaId": "lju4V8Gj3Fso1UdqT2XbpFdMkoEj.m4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "6668d8f3c26e396a3618cc1d",
+      "pid": "600834f0bd898cad7ea07801",
+      "title": "Vol.218 电影1995|青年腾格尔跨上《黑骏马》，少年郭柯宇化身《红樱桃》",
+      "shownotes": "<p><strong>本期嘉宾：战台烽。影评人，电影超级爱好者，微博@先睹为快战台烽</strong></p>\n<p>继续盘点九十年代国产电影。1995这一年，我们提到的电影有《变脸》《红粉》《赢家》《红樱桃》《黑骏马》《混在北京》《民警故事》《小山回家》……</p>\n<p>我们请到的嘉宾，是超级热爱电影的战台烽老师。战台烽从小喜欢看电影，而且是进电影院去看，因此也养成了进影院看大银幕的习惯。直到现在，他每年进场观看的院线新电影，也多达一两百部。</p>\n<p>每期年度盘点节目，嘉宾和主播各细说五部当年的影片。这些影片，或者在当年影响巨大，或者多年后被重新发现，或者给少年时代的我们留下深刻印记——总之，是我们认为值得一一回望的影片。</p>\n<figure><img src=\"https://image.xyzcdn.net/FqIS8gB8y7kJt1W2iEFVoUg8ynYw.jpg\"/></figure>\n<p>在本期节目中你会听到：</p>\n<p>1.1995年这一年，你心目中的年度五大国产影片有哪些？电影《红樱桃》的特别之处在哪里？</p>\n<p>2.各自五部电影之外，还有哪几部当年的电影值得说一说？</p>\n<p>3.由《民警故事》，盘点一下和警察有关的电影？</p>\n<p>4.如果选一位1995年年度演员，你选谁？</p>\n<p>节目索引：</p>\n<p>06:17 张国立他们住的那种筒子楼，我也临时住过一阵</p>\n<p>15:20 大家知道变脸绝活儿，这个电影起到了一定宣传作用</p>\n<p>24:39 胡同里人和人挨得近，彼此容易熟悉也容易产生矛盾</p>\n<p>38:40 叶大鹰和王朔关系很好，他们都是大院子弟</p>\n<p>45:48 片中不断地出现一段配乐，这段音乐叫《神圣的战争》</p>\n<p>52:11 这部反映残疾人生活的电影，残联是给了一部分资金的</p>\n<p>1:05:15 何赛飞本人到现在还是比较勇，你记着去年那个护宝锤视频吗？</p>\n<p>1:11:02 赵涛他一定是特别好的演员，但她每部戏演的都是自己</p>\n<p>1:26:44 高群书导演说过，要拍1930年到2030年轰动的系列真实事件</p>\n<p>1:31:18 《朝云暮雨》里这两个人的关系，我觉得不真实</p>\n<p>本期主持人：郑捕头</p>\n<p>本期剪辑：郑捕头</p>\n<p>封面设计：杨明</p>\n<p>相关素材：《变脸》《红粉》《赢家》《红樱桃》《黑骏马》《混在北京》《民警故事》《小山回家》等电影片段，《黑骏马 》《混在北京》原声音乐片段</p>\n<p>“西四五条”是一档文艺评论及访谈类播客节目，各大音频平台均可收听。欢迎订阅，欢迎留言。</p>\n<p>进听友群或业务联系微信：xisiwutiaofm</p>\n<p>“西四五条”公号：西四五条</p>",
+      "description": "本期嘉宾：战台烽。影评人，电影超级爱好者，微博@先睹为快战台烽\n继续盘点九十年代国产电影。1995这一年，我们提到的电影有《变脸》《红粉》《赢家》《红樱桃》《黑骏马》《混在北京》《民警故事》《小山回家》……\n我们请到的嘉宾，是超级热爱电影的战台烽老师。战台烽从小喜欢看电影，而且是进电影院去看，因此也养成了进影院看大银幕的习惯。直到现在，他每年进场观看的院线新电影，也多达一两百部。\n每期年度盘点节目，嘉宾和主播各细说五部当年的影片。这些影片，或者在当年影响巨大，或者多年后被重新发现，或者给少年时代的我们留下深刻印记——总之，是我们认为值得一一回望的影片。\n在本期节目中你会听到：\n1.1995年这一年，你心目中的年度五大国产影片有哪些？电影《红樱桃》的特别之处在哪里？\n2.各自五部电影之外，还有哪几部当年的电影值得说一说？\n3.由《民警故事》，盘点一下和警察有关的电影？\n4.如果选一位1995年年度演员，你选谁？\n节目索引：\n06:17 张国立他们住的那种筒子楼，我也临时住过一阵\n15:20 大家知道变脸绝活儿，这个电影起到了一定宣传作用\n24:39 胡同里人和人挨得近，彼此容易熟悉也容易产生矛盾\n38:40 叶大鹰和王朔关系很好，他们都是大院子弟\n45:48 片中不断地出现一段配乐，这段音乐叫《神圣的战争》\n52:11 这部反映残疾人生活的电影，残联是给了一部分资金的\n1:05:15 何赛飞本人到现在还是比较勇，你记着去年那个护宝锤视频吗？\n1:11:02 赵涛他一定是特别好的演员，但她每部戏演的都是自己\n1:26:44 高群书导演说过，要拍1930年到2030年轰动的系列真实事件\n1:31:18 《朝云暮雨》里这两个人的关系，我觉得不真实\n本期主持人：郑捕头\n本期剪辑：郑捕头\n封面设计：杨明\n相关素材：《变脸》《红粉》《赢家》《红樱桃》《黑骏马》《混在北京》《民警故事》《小山回家》等电影片段，《黑骏马 》《混在北京》原声音乐片段\n“西四五条”是一档文艺评论及访谈类播客节目，各大音频平台均可收听。欢迎订阅，欢迎留言。\n进听友群或业务联系微信：xisiwutiaofm\n“西四五条”公号：西四五条",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQ3ktYWtTcjA2YXVnR2J1SkU2dnpRb3hKck4ucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQ3ktYWtTcjA2YXVnR2J1SkU2dnpRb3hKck4ucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQ3ktYWtTcjA2YXVnR2J1SkU2dnpRb3hKck4ucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQ3ktYWtTcjA2YXVnR2J1SkU2dnpRb3hKck4ucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZoQ3ktYWtTcjA2YXVnR2J1SkU2dnpRb3hKck4ucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/FiOrBdbOS-STpCiLoCfcqTw-x5sp.m4a"
+      },
+      "isPrivateMedia": true,
+      "mediaKey": "lo_QpxZ6acfv3ZT6Ol1F4jXOMv3J.m4a",
+      "media": {
+        "id": "lo_QpxZ6acfv3ZT6Ol1F4jXOMv3J.m4a",
+        "size": 147404005,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PRIVATE",
+          "key": "lo_QpxZ6acfv3ZT6Ol1F4jXOMv3J.m4a"
+        }
+      },
+      "clapCount": 0,
+      "commentCount": 8,
+      "playCount": 126,
+      "favoriteCount": 1,
+      "pubDate": "2024-06-12T22:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 6094,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "600834f0bd898cad7ea07801",
+        "title": "西四五条",
+        "author": "主播郑捕头",
+        "brief": "聊喜剧、影视，谈文化、人生",
+        "description": "聊天访谈，一周双会，周而不比，惠而不费。\n\n聊喜剧，说影视，谈文化，想人生。\n\n周一周四更新，及不定期加更。欢迎订阅收听。\n\n进听友群请加：xisiwutiaofm",
+        "subscriptionCount": 24542,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSUk4UXpoS25SN3ZCdlJVSDJfM1QxQV9KemI=",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSUk4UXpoS25SN3ZCdlJVSDJfM1QxQV9KemI=@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSUk4UXpoS25SN3ZCdlJVSDJfM1QxQV9KemI=@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSUk4UXpoS25SN3ZCdlJVSDJfM1QxQV9KemI=@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxSUk4UXpoS25SN3ZCdlJVSDJfM1QxQV9KemI=@thumbnail"
+        },
+        "color": {
+          "original": "#E30414",
+          "light": "#D6332D",
+          "dark": "#D6332D"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "SELF_HOSTING",
+        "episodeCount": 223,
+        "latestEpisodePubDate": "2024-06-12T22:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 47,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5f451ac1e0f5e723bb788c5c",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FjXMF12swd3B7FOLwZaZmTmGWAhq",
+                "largePicUrl": "https://image.xyzcdn.net/FjXMF12swd3B7FOLwZaZmTmGWAhq@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FjXMF12swd3B7FOLwZaZmTmGWAhq@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FjXMF12swd3B7FOLwZaZmTmGWAhq@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FjXMF12swd3B7FOLwZaZmTmGWAhq@thumbnail",
+                "format": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "nickname": "郑捕头",
+            "isNicknameSet": false,
+            "bio": "听出个未来",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "6001b6f5e0f5e723bb70a5aa",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fl9NXgtzxOMwGieGekjXdk3am4Xd.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fl9NXgtzxOMwGieGekjXdk3am4Xd.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fl9NXgtzxOMwGieGekjXdk3am4Xd.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fl9NXgtzxOMwGieGekjXdk3am4Xd.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fl9NXgtzxOMwGieGekjXdk3am4Xd.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3001,
+                "height": 3001
+              }
+            },
+            "nickname": "鹌鹑妹张小静",
+            "isNicknameSet": false,
+            "bio": "忙完这个忙那个",
+            "gender": "FEMALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5ffc1c96e0f5e723bbce3961",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FlGTdIUzI-SA-9tNMjqxn3kEvuCs",
+                "largePicUrl": "https://image.xyzcdn.net/FlGTdIUzI-SA-9tNMjqxn3kEvuCs@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FlGTdIUzI-SA-9tNMjqxn3kEvuCs@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FlGTdIUzI-SA-9tNMjqxn3kEvuCs@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FlGTdIUzI-SA-9tNMjqxn3kEvuCs@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 128
+              }
+            },
+            "nickname": "主播杨明",
+            "isNicknameSet": false,
+            "bio": "觀雲者☁️",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "天津",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "西四五条",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "郑捕头",
+            "url": "https://weibo.com/n/郑捕头"
+          },
+          {
+            "type": "jike",
+            "name": "郑捕头",
+            "url": "https://m.okjike.com/users/84ba456c-9d15-4fd6-bbd5-3ef17a51e991"
+          },
+          {
+            "type": "wechat",
+            "name": "xisiwutiaofm",
+            "note": "加听友群"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "DENIED",
+          "reason": "当前单集为付费内容，升级小宇宙到最新版本并购买，即可发表评论~"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PURCHASE_REQUIRED"
+        },
+        {
+          "name": "PICK",
+          "status": "PURCHASE_REQUIRED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PURCHASE_REQUIRED"
+        }
+      ],
+      "payType": "PAY_EPISODE",
+      "trial": {
+        "type": "PARTIAL_ALLOWED",
+        "from": 0,
+        "to": 180,
+        "segment": "https://media.xyzcdn.net/lrV4ok4LNaxJe_mwzFgbW3TgM1zy.m4a",
+        "fullDuration": 6094
+      },
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "product": {
+        "id": "666a1a604e87c41035ed2aca",
+        "targetId": "6668d8f3c26e396a3618cc1d",
+        "targetType": "EPISODE",
+        "price": 880,
+        "purchaseCount": 25,
+        "purchasers": [
+          {
+            "type": "USER",
+            "uid": "66040f0aedce67104a9a3086",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FsJN0gjwYjfheue66NX9CnpNvtAN",
+                "largePicUrl": "https://image.xyzcdn.net/FsJN0gjwYjfheue66NX9CnpNvtAN@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FsJN0gjwYjfheue66NX9CnpNvtAN@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FsJN0gjwYjfheue66NX9CnpNvtAN@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FsJN0gjwYjfheue66NX9CnpNvtAN@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "不二熊_2AfA",
+            "isNicknameSet": true,
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "江西",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "60764f63e0f5e723bbdbc51a",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/lvqAD24VgB3V91PJFP8sYtwahJoG.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/lvqAD24VgB3V91PJFP8sYtwahJoG.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/lvqAD24VgB3V91PJFP8sYtwahJoG.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/lvqAD24VgB3V91PJFP8sYtwahJoG.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/lvqAD24VgB3V91PJFP8sYtwahJoG.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "adios56788",
+            "isNicknameSet": true,
+            "bio": "爱听不听 ",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "64b55d41edce67104ade3f3c",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FkP7N7P_KhntI8IHem_CimcMYfK_.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FkP7N7P_KhntI8IHem_CimcMYfK_.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FkP7N7P_KhntI8IHem_CimcMYfK_.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FkP7N7P_KhntI8IHem_CimcMYfK_.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FkP7N7P_KhntI8IHem_CimcMYfK_.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 550,
+                "height": 550
+              }
+            },
+            "nickname": "战台烽",
+            "isNicknameSet": true,
+            "bio": "爱电影、爱旅行、爱美食的闲散人员",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "浙江",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "purchaseNotice": "<ol><li>本节目为付费内容，购买后即可永久收听完整内容；</li><li>本节目为虚拟内容服务，购买成功后恕不支持退款；</li><li>在购买过程中，如果你有任何问题，可以按以下步骤联系官方客服：打开小宇宙App【问题与反馈】-【更多问题】按照说明添加客服的企业微信。</li></ol>"
+      },
+      "isOwned": false,
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京"
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66699c90d5cc9594efd21b2e",
+      "pid": "5e2864f5418a84a04628e249",
+      "title": "Vol. 120 WWDC24苹果全球开发者大会，AI = Apple Intelligence!",
+      "shownotes": "<p><img decoding=\"async\" src=\"https://cdn.justinbot.com/wp-content/uploads/2024/06/Podcast-Cover-v120.png\" alt=\"\" /></p>\n<p>又一年WWDC，苹果整大活！</p>\n<p>AI到了苹果手里变成了Apple Intelligence (苹果智能)，而且还是个期货。之前谣传许久的Google Gemini和OpenAI的ChatGPT为苹果提供人工智能服务的消息，最终实锤对了一半: 接了ChatGPT，但又没完全接。</p>\n<p>苹果还是自研了一堆苹果的大模型，也宣布新系统里高度集成的所有智能服务都来自苹果自家的服务，ChatGPT只是在最后一环，如果用户想要在对话服务中选择其他家的AI，可以点一下“使用ChatGPT”。苹果赢麻了。</p>\n<p>本次发布会重点当然在AI部分，前1小时苹果还是照例更新了一大波visionOS 2, watchOS 11, iOS 18, iPadOS 18, macOS Sequoia等常规更新。demo出来的功能都乏善可陈，看得人昏昏欲睡。最终放出的王炸才是动真格的。我们此前在科技快乐星球多次提及苹果在AI赛道的落后，这下看来，苹果是在酝酿只有他做得到的AI赛道呀。</p>\n<p>废话不多说，让我们进入本期节目，Apple Intelligence!</p>\n<h2>时间轴</h2>\n<ul>\n<li>00:00:00 开场</li>\n<li>00:01:02 苹果高管团队尬演空降</li>\n<li>00:03:25 苹果AI: Apple Intelligence</li>\n<li>00:04:33 印象最深的苹果智能功能</li>\n<li>00:06:27 iPhone支持通话录音了</li>\n<li>00:07:38 苹果智能可以做什么？</li>\n<li>00:25:26 苹果智能的架构设计是怎样的？</li>\n<li>00:28:15 来自Elon Musk的嘲讽</li>\n<li>00:29:58 苹果自己的AI平台 only apple can do</li>\n<li>00:33:05 交互很好，但是其他人做不了吗？</li>\n<li>00:41:31 Platforms State of the Union</li>\n<li>00:44:57 Vision OS的更新，Vision Pro变好用了？</li>\n<li>00:48:10 iOS 18更新，换肤？</li>\n<li>00:55:31 macOS更新Sequoia，控制iPhone倒反天罡？</li>\n<li>01:02:49 iPadOS更新，手写数学题</li>\n<li>01:05:23 watchOS更新</li>\n</ul>\n<h2>相关信息</h2>\n<ul>\n<li>主播: <a href=\"https://twitter.com/MapleShadow\">枫影 Justin Yan</a></li>\n<li>主播: <a href=\"https://twitter.com/hzlzh\">自力 hzlzh</a></li>\n<li>后期: <a href=\"https://twitter.com/MapleShadow\">枫影 Justin Yan</a></li>\n<li>微信听友群：加<code>fyfyFM</code>进群</li>\n<li>听众反馈: <a href=\"mailto:hi@fyfy.fm\">hi@fyfy.fm</a></li>\n</ul>\n<h2>节目收听方式</h2>\n<p>推荐使用苹果Podcast, 小宇宙等播客客户端搜索<strong>“枫言枫语”</strong>来订阅收听本节目。</p>\n<p>荔枝FM，喜马拉雅，蜻蜓FM等平台亦有同步。</p>\n<ul>\n<li><a href=\"https://www.xiaoyuzhoufm.com/podcast/5e2864f5418a84a04628e249\">小宇宙 - 枫言枫语</a></li>\n<li><a href=\"https://justinyan.me/feed/podcast\">直接订阅 Feed URL</a></li>\n<li><a href=\"https://itunes.apple.com/cn/podcast/%E6%9E%AB%E5%BD%B1justinyan/id1069600190?mt=2\">Apple iTunes Podcast - 枫言枫语</a></li>\n</ul>The post <a href=\"https://justinyan.me/post/5997\">Vol. 120 WWDC24苹果全球开发者大会，AI = Apple Intelligence!</a> first appeared on <a href=\"https://justinyan.me\">枫言枫语</a>.",
+      "description": "又一年WWDC，苹果整大活！\nAI到了苹果手里变成了Apple Intelligence (苹果智能)，而且还是个期货。之前谣传许久的Google Gemini和OpenAI的ChatGPT为苹果提供人工智能服务的消息，最终实锤对了一半: 接了ChatGPT，但又没完全接。\n苹果还是自研了一堆苹果的大模型，也宣布新系统里高度集成的所有智能服务都来自苹果自家的服务，ChatGPT只是在最后一环，如果用户想要在对话服务中选择其他家的AI，可以点一下“使用ChatGPT”。苹果赢麻了。\n本次发布会重点当然在AI部分，前1小时苹果还是照例更新了一大波visionOS 2, watchOS 11, iOS 18, iPadOS 18, macOS Sequoia等常规更新。demo出来的功能都乏善可陈，看得人昏昏欲睡。最终放出的王炸才是动真格的。我们此前在科技快乐星球多次提及苹果在AI赛道的落后，这下看来，苹果是在酝酿只有他做得到的AI赛道呀。\n废话不多说，让我们进入本期节目，Apple Intelligence!\n时间轴\n* 00:00:00 开场\n* 00:01:02 苹果高管团队尬演空降\n* 00:03:25 苹果AI: Apple Intelligence\n* 00:04:33 印象最深的苹果智能功能\n* 00:06:27 iPhone支持通话录音了\n* 00:07:38 苹果智能可以做什么？\n* 00:25:26 苹果智能的架构设计是怎样的？\n* 00:28:15 来自Elon Musk的嘲讽\n* 00:29:58 苹果自己的AI平台 only apple can do\n* 00:33:05 交互很好，但是其他人做不了吗？\n* 00:41:31 Platforms State of the Union\n* 00:44:57 Vision OS的更新，Vision Pro变好用了？\n* 00:48:10 iOS 18更新，换肤？\n* 00:55:31 macOS更新Sequoia，控制iPhone倒反天罡？\n* 01:02:49 iPadOS更新，手写数学题\n* 01:05:23 watchOS更新\n相关信息\n* 主播: 枫影 Justin Yan\n* 主播: 自力 hzlzh\n* 后期: 枫影 Justin Yan\n* 微信听友群：加fyfyFM进群\n* 听众反馈: hi@fyfy.fm\n节目收听方式\n推荐使用苹果Podcast, 小宇宙等播客客户端搜索“枫言枫语”来订阅收听本节目。\n荔枝FM，喜马拉雅，蜻蜓FM等平台亦有同步。\n* 小宇宙 - 枫言枫语\n* 直接订阅 Feed URL\n* Apple iTunes Podcast - 枫言枫语\nThe post Vol. 120 WWDC24苹果全球开发者大会，AI = Apple Intelligence! first appeared on 枫言枫语.",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9Qb2RjYXN0LUNvdmVyLXYxMjAucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9Qb2RjYXN0LUNvdmVyLXYxMjAucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9Qb2RjYXN0LUNvdmVyLXYxMjAucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9Qb2RjYXN0LUNvdmVyLXYxMjAucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyNC8wNi9Qb2RjYXN0LUNvdmVyLXYxMjAucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://justinyan.me/podcast-download/5997/vol-120-wwdc24%e8%8b%b9%e6%9e%9c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8cai-apple-intelligence.mp3"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/podcast-download/5997/vol-120-wwdc24%e8%8b%b9%e6%9e%9c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8cai-apple-intelligence.mp3",
+      "media": {
+        "id": "/podcast-download/5997/vol-120-wwdc24%e8%8b%b9%e6%9e%9c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8cai-apple-intelligence.mp3",
+        "size": 69161888,
+        "mimeType": "audio/mpeg",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://justinyan.me/podcast-download/5997/vol-120-wwdc24%e8%8b%b9%e6%9e%9c%e5%85%a8%e7%90%83%e5%bc%80%e5%8f%91%e8%80%85%e5%a4%a7%e4%bc%9a%ef%bc%8cai-apple-intelligence.mp3"
+        },
+        "backupSource": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e2864f5418a84a04628e249/lqTsUXIXkyEL1Ejor89u8cuRfEBY.mp3"
+        }
+      },
+      "clapCount": 4,
+      "commentCount": 40,
+      "playCount": 1060,
+      "favoriteCount": 5,
+      "pubDate": "2024-06-12T12:52:30.000Z",
+      "status": "NORMAL",
+      "duration": 4322,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e2864f5418a84a04628e249",
+        "title": "枫言枫语",
+        "author": "枫影JustinYan、自力hzlzh",
+        "brief": "开发者与设计师主持的科技播客",
+        "description": "听见科技与人文的声音。由开发者 @枫影JustinYan 和 设计师 @自力hzlzh 主持的播客节目。",
+        "subscriptionCount": 13232,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMi9Qb2RjYXN0LUNvdmVyMTQwMC5wbmc=.png",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMi9Qb2RjYXN0LUNvdmVyMTQwMC5wbmc=.png@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMi9Qb2RjYXN0LUNvdmVyMTQwMC5wbmc=.png@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMi9Qb2RjYXN0LUNvdmVyMTQwMC5wbmc=.png@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4uanVzdGluYm90LmNvbS93cC1jb250ZW50L3VwbG9hZHMvMjAyMC8wMi9Qb2RjYXN0LUNvdmVyMTQwMC5wbmc=.png@thumbnail"
+        },
+        "color": {
+          "original": "#FCF3EB",
+          "light": "#FFAC56",
+          "dark": "#FFAC56"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 120,
+        "latestEpisodePubDate": "2024-06-12T12:52:30.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5e7cb280a2f2e503cec3ed93",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fg8x-wuZUDBu2SZrMx-yYUBEccw_.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fg8x-wuZUDBu2SZrMx-yYUBEccw_.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fg8x-wuZUDBu2SZrMx-yYUBEccw_.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fg8x-wuZUDBu2SZrMx-yYUBEccw_.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fg8x-wuZUDBu2SZrMx-yYUBEccw_.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 2160,
+                "height": 2160
+              }
+            },
+            "nickname": "枫影JustinYan",
+            "isNicknameSet": false,
+            "bio": "一个苹果开发者 | justinyan.me",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "广东",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5e7cb239b3c5bca5f641740a",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fqo42_Ff2-G1vAHlMcIPqPTnOLMD.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fqo42_Ff2-G1vAHlMcIPqPTnOLMD.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fqo42_Ff2-G1vAHlMcIPqPTnOLMD.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fqo42_Ff2-G1vAHlMcIPqPTnOLMD.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fqo42_Ff2-G1vAHlMcIPqPTnOLMD.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 500,
+                "height": 500
+              }
+            },
+            "nickname": "自力hzlzh",
+            "isNicknameSet": false,
+            "bio": "设计师 | 热爱创造｜即刻TW同名",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "广东",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "枫言枫语",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "wechat",
+            "name": "fyfyfm",
+            "note": "加听友群"
+          },
+          {
+            "type": "email",
+            "name": "hi@fyfy.fm",
+            "note": "听众反馈"
+          },
+          {
+            "type": "custom",
+            "name": "官网",
+            "url": "https://fyfy.fm"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "广东",
+      "topicId": "654a29c7e910114c49489b47",
+      "transcript": {
+        "mediaId": "5e2864f5418a84a04628e249/lqTsUXIXkyEL1Ejor89u8cuRfEBY.mp3"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66681ffeb6a8412729f4f9f2",
+      "pid": "62382c1103bea1ebfffa1c00",
+      "title": "No.104 🕯️ 逝者｜ 量化投资大师与数学大师：詹姆斯·西蒙斯",
+      "shownotes": "<p>主播｜刘飞 潇磊</p>\n<p>本期属于逝者系列。2024 年 5 月 10 日， 数学家和投资人詹姆斯·西蒙斯去世。</p>\n<p>作为一位数学家，西蒙斯与陈省身共同提出了陈-西蒙斯定理，成为数学领域和物理领域的重要基础。西蒙斯也得以成为几何领域的大师。</p>\n<p>40 岁的西蒙斯，没有满足成为一名大学教授，他决心投身投资领域，组建了文艺复兴公司，以「技术流」打天下，打得轰轰烈烈。</p>\n<p>西蒙斯是如何取得后世投资人们的尊重的？西蒙斯的投资理念又是怎样的？在西蒙斯刚刚去世的当下，让我们了解一下量化投资大师背后的人生。</p>\n<p>来杯半拿铁，咱们边喝边唠。</p>\n<p>—</p>\n<p>📮听友投稿邮箱：bannatie@163.com</p>\n<p>☕️杭州特调「芝麻·半拿铁」的品尝地：西湖区华星路 01coffee</p>\n<p>👔半拿铁周边购买淘宝店：小羊商店Sheepedia</p>\n<p>部分周边展示：</p>\n<figure><img src=\"https://image.xyzcdn.net/Fi49hiyPTq56GJ8aF0KpMrGutl4a.JPG\"/></figure>\n\n<figure><img src=\"https://image.xyzcdn.net/FtE3Hrf5ZaWGDQCldxDgFYCrn6Rh.JPG\"/></figure>\n\n<figure><img src=\"https://image.xyzcdn.net/FggHUXGZFw5Mb9XeLXzYJWVJ2Tc9.JPG\"/></figure>\n\n<p>—</p>\n<p>时间轴</p>\n<p>07:37 数学奇才西蒙斯：从好奇宝宝到数学巨匠</p>\n<p>17:22 西蒙斯投资之路的起点：从数学到商业</p>\n<p>31:42 从数学家到投资先锋</p>\n<p>45:27 文艺复兴科技公司正式成立</p>\n<p>48:18 一个接一个：流水的数学家，铁打的西蒙斯</p>\n<p>57:19 挑战传统投资观念：高频交易与趋势分析</p>\n<p>01:22:50 互联网泡沫时期的文艺复兴公司</p>\n<p>01:34:47 西蒙斯退出文艺复兴科技公司</p>\n<p>01:37:41 西蒙斯给后世留下的影响</p>\n<p>01:52:54 彩蛋部分</p>\n<p>石溪分校双雄：物理系的杨振宁，数学系的西蒙斯</p>\n<figure><img src=\"https://image.xyzcdn.net/FtkT-G25uM5MZ7rAi-OSaqVfDi7X.jpg\"/></figure>\n<p>年轻时的詹姆斯·西蒙斯</p>\n<figure><img src=\"https://image.xyzcdn.net/FlaI_0hdQRYxtmVBOA0ILLgwUIy1.png\"/></figure>\n<p>成名后的西蒙斯</p>\n<figure><img src=\"https://image.xyzcdn.net/FpKfjvkqIUQDj0xdcjfnk6d1PaGo.webp\"/></figure>\n<p>大奖章的收益表现</p>\n<figure><img src=\"https://image.xyzcdn.net/FsWKd1Ihq4i9kFKg6PYveI_kMfFW.webp\"/></figure>\n<p>与标普 500 的对比</p>\n<figure><img src=\"https://image.xyzcdn.net/Fm5L4LVMOT_TfhjUWwqBMCu78UuS.webp\"/></figure>\n<p>投资大师们的收益率比照，图中也标明了年份</p>\n<figure><img src=\"https://image.xyzcdn.net/Fl1CELnISmOOvLfFHmV2PNHX-BZD.webp\"/></figure>\n<p>主要参考资料：</p>\n<p>《征服市场的人 The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution》(美)格里高利·祖克曼</p>\n<p>Elwyn_Berlekamp</p>\n<p>Berlekamp_algorithm</p>\n<p>James Ax</p>\n<p>Jim_Simons</p>\n<p>Renaissance Technologies</p>\n<p>《Billionaire Quant Trader Jim Simons Dead At 86》FORBES</p>\n<p>《Jim Simons: A Life of Scholarship, Leadership and Philanthropy》stonybrook news</p>\n<p>《他28岁操盘，炒成华尔街之王，然后跑了》华商韬略</p>\n<p>片尾曲：</p>\n<p>Let You Down - Dawid Podsiadlo</p>\n<p>本期制作人：圣文</p>\n<figure><img src=\"https://image.xyzcdn.net/FgNP20dLGgdt5V9_3krwrmPoI4Os.png\"/></figure>",
+      "description": "主播｜刘飞 潇磊\n本期属于逝者系列。2024 年 5 月 10 日， 数学家和投资人詹姆斯·西蒙斯去世。\n作为一位数学家，西蒙斯与陈省身共同提出了陈-西蒙斯定理，成为数学领域和物理领域的重要基础。西蒙斯也得以成为几何领域的大师。\n40 岁的西蒙斯，没有满足成为一名大学教授，他决心投身投资领域，组建了文艺复兴公司，以「技术流」打天下，打得轰轰烈烈。\n西蒙斯是如何取得后世投资人们的尊重的？西蒙斯的投资理念又是怎样的？在西蒙斯刚刚去世的当下，让我们了解一下量化投资大师背后的人生。\n来杯半拿铁，咱们边喝边唠。\n—\n📮听友投稿邮箱：bannatie@163.com\n☕️杭州特调「芝麻·半拿铁」的品尝地：西湖区华星路 01coffee\n👔半拿铁周边购买淘宝店：小羊商店Sheepedia\n部分周边展示：\n—\n时间轴\n07:37 数学奇才西蒙斯：从好奇宝宝到数学巨匠\n17:22 西蒙斯投资之路的起点：从数学到商业\n31:42 从数学家到投资先锋\n45:27 文艺复兴科技公司正式成立\n48:18 一个接一个：流水的数学家，铁打的西蒙斯\n57:19 挑战传统投资观念：高频交易与趋势分析\n01:22:50 互联网泡沫时期的文艺复兴公司\n01:34:47 西蒙斯退出文艺复兴科技公司\n01:37:41 西蒙斯给后世留下的影响\n01:52:54 彩蛋部分\n石溪分校双雄：物理系的杨振宁，数学系的西蒙斯\n年轻时的詹姆斯·西蒙斯\n成名后的西蒙斯\n大奖章的收益表现\n与标普 500 的对比\n投资大师们的收益率比照，图中也标明了年份\n主要参考资料：\n《征服市场的人 The Man Who Solved the Market: How Jim Simons Launched the Quant Revolution》(美)格里高利·祖克曼\nElwyn_Berlekamp\nBerlekamp_algorithm\nJames Ax\nJim_Simons\nRenaissance Technologies\n《Billionaire Quant Trader Jim Simons Dead At 86》FORBES\n《Jim Simons: A Life of Scholarship, Leadership and Philanthropy》stonybrook news\n《他28岁操盘，炒成华尔街之王，然后跑了》华商韬略\n片尾曲：\nLet You Down - Dawid Podsiadlo\n本期制作人：圣文",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeXNLUWlGb2NvUGhYTjdWZUJOT2lWa19WVzYucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeXNLUWlGb2NvUGhYTjdWZUJOT2lWa19WVzYucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeXNLUWlGb2NvUGhYTjdWZUJOT2lWa19WVzYucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeXNLUWlGb2NvUGhYTjdWZUJOT2lWa19WVzYucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZxeXNLUWlGb2NvUGhYTjdWZUJOT2lWa19WVzYucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/lu8DPrq5jmBPc_e2Yu_AlXTkH_yE.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "lu8DPrq5jmBPc_e2Yu_AlXTkH_yE.m4a",
+      "media": {
+        "id": "lu8DPrq5jmBPc_e2Yu_AlXTkH_yE.m4a",
+        "size": 176473321,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/lu8DPrq5jmBPc_e2Yu_AlXTkH_yE.m4a"
+        }
+      },
+      "clapCount": 96,
+      "commentCount": 154,
+      "playCount": 16636,
+      "favoriteCount": 108,
+      "pubDate": "2024-06-12T12:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 7295,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "62382c1103bea1ebfffa1c00",
+        "title": "半拿铁 | 商业沉浮录",
+        "author": "刘飞Lufy",
+        "brief": "跟你讲述商业背后的故事",
+        "description": "财经媒体人和互联网产品老兵，跟你讲述商业背后的故事。\n来杯半拿铁，咱们边喝边唠。\n\n",
+        "subscriptionCount": 316058,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWlhIRUxFaW44Sk45eElyVDNJTXNRUW8xTTAucG5n.png",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWlhIRUxFaW44Sk45eElyVDNJTXNRUW8xTTAucG5n.png@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWlhIRUxFaW44Sk45eElyVDNJTXNRUW8xTTAucG5n.png@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWlhIRUxFaW44Sk45eElyVDNJTXNRUW8xTTAucG5n.png@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZsWlhIRUxFaW44Sk45eElyVDNJTXNRUW8xTTAucG5n.png@thumbnail"
+        },
+        "color": {
+          "original": "#826F66",
+          "light": "#B3541C",
+          "dark": "#B3541C"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "SELF_HOSTING",
+        "episodeCount": 110,
+        "latestEpisodePubDate": "2024-06-12T12:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 1,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5e735cb8a2f2e503cebd5564",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FuEMyQjvL4s4KZ0NdFYkqCnhaQ2I",
+                "largePicUrl": "https://image.xyzcdn.net/FuEMyQjvL4s4KZ0NdFYkqCnhaQ2I@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FuEMyQjvL4s4KZ0NdFYkqCnhaQ2I@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FuEMyQjvL4s4KZ0NdFYkqCnhaQ2I@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FuEMyQjvL4s4KZ0NdFYkqCnhaQ2I@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "刘飞Lufy",
+            "isNicknameSet": true,
+            "bio": "我所见的，都是错的",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "上海",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5e7c9e0ea2f2e503cec3d1dd",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/Fkijp3PtJB4jjjaF3ahFUXvH-dqh.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/Fkijp3PtJB4jjjaF3ahFUXvH-dqh.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/Fkijp3PtJB4jjjaF3ahFUXvH-dqh.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/Fkijp3PtJB4jjjaF3ahFUXvH-dqh.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/Fkijp3PtJB4jjjaF3ahFUXvH-dqh.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 1911,
+                "height": 1911
+              }
+            },
+            "nickname": "潇磊",
+            "isNicknameSet": true,
+            "bio": "“医生我病了，请务必治好我！另外我该怎么长生不老？”",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "日本",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechat",
+            "name": "wocaishiliufei",
+            "note": "添加微信"
+          },
+          {
+            "type": "email",
+            "name": "bannatie@163.com",
+            "note": "听众反馈"
+          },
+          {
+            "type": "custom",
+            "name": "viovol(潇磊)"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "浙江",
+      "transcript": {
+        "mediaId": "lu8DPrq5jmBPc_e2Yu_AlXTkH_yE.m4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66695a077ddc6840834c1e9c",
+      "pid": "5e560e8f418a84a046c0d5f2",
+      "title": "孙权挑战极限：征黄祖到榻上策的背后，权谋与困境的激烈交锋",
+      "shownotes": "<myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">各位，生活，工作，身体，心情，四维安好</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">揭秘三国奇才孙权：平衡大师与复杂帝王之路！本期咱们一起探秘东吴大帝孙权的双面人生。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">少掌权柄五十三载，治国有道，国运鼎盛，却为何晚年决策让人迷？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">曹操的浪漫对比孙权的权谋，两极评价背后藏着怎样的领导智慧？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">孙权如何在派系林立的江东巧妙周旋，又为何晚年突变？从农夫阚泽到名门陆逊，孙权的用人之术，尽显政治手腕。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">更有周瑜真面目大揭秘，不仅是风流儒将，更是特立独行的反叛者。</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">东吴兴衰，尽在孙权一手布局。三国乱世，英雄辈出，孙权如何在复杂局势中寻求平衡，稳坐钓鱼台？快来一探究竟！</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\"><br></p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">02:22 孙权：一个复杂而强大的历史人物分析</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">06:40 孙权的政治智慧：收纳人才与政治势力的平衡之道</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">13:23 揭秘历史中的周瑜：儒雅外表下的反叛灵魂</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">20:07 东吴集团的未来之路：鲁肃的建议与孙权的反应</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">26:50 孙权的平衡之道：如何在本土势力与北方威胁之间寻求生存？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">33:33 黄祖与刘表的同盟关系：皇族在江夏的影响力</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">40:16 皇祖的权力边界：能力有限，但影响力非凡</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">46:59 决战皇祖，东吴集团的战略转折点——甘宁与张昭的争端解析</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">53:40 孙权的治国之道：山岳杂居与宗族势力的平衡之道</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">01:00:23 孙权的领导力与决策方式：如何成为优秀的空降领导？</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">01:07:05 孙权的领导力：战略眼光与盟友选择的考验</p>\n</myfont><myfont margin=\"0\" padding=\"0\" font-family=\"NotoSansCJKsc\" size=\"15sp\" line-height=\"26dp\" color=\"#2E323F\" text-style=\"normal\">\n <p style=\"text-align: justify;\">01:13:49 孙刘联盟：刘备的作战策略与隆中队的重要性</p>\n</myfont>",
+      "description": "各位，生活，工作，身体，心情，四维安好\n揭秘三国奇才孙权：平衡大师与复杂帝王之路！本期咱们一起探秘东吴大帝孙权的双面人生。\n少掌权柄五十三载，治国有道，国运鼎盛，却为何晚年决策让人迷？\n曹操的浪漫对比孙权的权谋，两极评价背后藏着怎样的领导智慧？\n孙权如何在派系林立的江东巧妙周旋，又为何晚年突变？从农夫阚泽到名门陆逊，孙权的用人之术，尽显政治手腕。\n更有周瑜真面目大揭秘，不仅是风流儒将，更是特立独行的反叛者。\n东吴兴衰，尽在孙权一手布局。三国乱世，英雄辈出，孙权如何在复杂局势中寻求平衡，稳坐钓鱼台？快来一探究竟！\n02:22 孙权：一个复杂而强大的历史人物分析\n06:40 孙权的政治智慧：收纳人才与政治势力的平衡之道\n13:23 揭秘历史中的周瑜：儒雅外表下的反叛灵魂\n20:07 东吴集团的未来之路：鲁肃的建议与孙权的反应\n26:50 孙权的平衡之道：如何在本土势力与北方威胁之间寻求生存？\n33:33 黄祖与刘表的同盟关系：皇族在江夏的影响力\n40:16 皇祖的权力边界：能力有限，但影响力非凡\n46:59 决战皇祖，东吴集团的战略转折点——甘宁与张昭的争端解析\n53:40 孙权的治国之道：山岳杂居与宗族势力的平衡之道\n01:00:23 孙权的领导力与决策方式：如何成为优秀的空降领导？\n01:07:05 孙权的领导力：战略眼光与盟友选择的考验\n01:13:49 孙刘联盟：刘备的作战策略与隆中队的重要性",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzE5MDYxNDIzMTQ1MDMucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzE5MDYxNDIzMTQ1MDMucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzE5MDYxNDIzMTQ1MDMucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzE5MDYxNDIzMTQ1MDMucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzE5MDYxNDIzMTQ1MDMucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "http://cdn.lizhi.fm/audio/2024/06/12/3081531906143889926_hd.mp3"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/audio/2024/06/12/3081531906143889926_hd.mp3",
+      "media": {
+        "id": "/audio/2024/06/12/3081531906143889926_hd.mp3",
+        "size": 80536561,
+        "mimeType": "audio/mpeg",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "http://cdn.lizhi.fm/audio/2024/06/12/3081531906143889926_hd.mp3"
+        }
+      },
+      "clapCount": 1,
+      "commentCount": 4,
+      "playCount": 428,
+      "favoriteCount": 1,
+      "pubDate": "2024-06-12T07:53:21.000Z",
+      "status": "NORMAL",
+      "duration": 5030,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e560e8f418a84a046c0d5f2",
+        "title": "四维空间_Radio",
+        "author": "四维空间_Radio",
+        "description": "人人都是主播",
+        "subscriptionCount": 7099,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTkvMDcvMTcvMjc0ODkxOTc1MTcyNTUxNjM1OS5qcGc=.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTkvMDcvMTcvMjc0ODkxOTc1MTcyNTUxNjM1OS5qcGc=.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTkvMDcvMTcvMjc0ODkxOTc1MTcyNTUxNjM1OS5qcGc=.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTkvMDcvMTcvMjc0ODkxOTc1MTcyNTUxNjM1OS5qcGc=.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTkvMDcvMTcvMjc0ODkxOTc1MTcyNTUxNjM1OS5qcGc=.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#FBFBFB",
+          "light": "#ACACAC",
+          "dark": "#0B0B0B"
+        },
+        "topicLabels": [],
+        "syncMode": "RSS",
+        "episodeCount": 339,
+        "latestEpisodePubDate": "2024-06-12T07:53:21.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5edfb466f3aa3ace4c60cd89",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FgpHRS9MvvV9Fts2Ouq1nGKiN_Vz",
+                "largePicUrl": "https://image.xyzcdn.net/FgpHRS9MvvV9Fts2Ouq1nGKiN_Vz@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FgpHRS9MvvV9Fts2Ouq1nGKiN_Vz@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FgpHRS9MvvV9Fts2Ouq1nGKiN_Vz@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FgpHRS9MvvV9Fts2Ouq1nGKiN_Vz@thumbnail",
+                "format": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "nickname": "老孙",
+            "isNicknameSet": false,
+            "bio": "四维空间_Radio主播",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "天津",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "天津",
+      "transcript": {
+        "mediaId": "5e560e8f418a84a046c0d5f2/liuERI5Py4d2gUuD_kpHzJo0fs6Y.mp3"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66695cd67ddc6840834cdf18",
+      "pid": "5e441df9418a84a046c83a48",
+      "title": "关于摩点众筹的小通知",
+      "shownotes": "<p>【主播】</p><br><p>恶霸波、张小娘</p><br><p>【后期制作】</p><br><p>恶霸波</p><br><p>【公众号】</p><br><p>柳南故事</p><br><p>【进群方式】</p><br><p>13521785295</p>",
+      "description": "【主播】\n恶霸波、张小娘\n【后期制作】\n恶霸波\n【公众号】\n柳南故事\n【进群方式】\n13521785295",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzA3MzE0NjkwMjkzODMuanBn.jpg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzA3MzE0NjkwMjkzODMuanBn.jpg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzA3MzE0NjkwMjkzODMuanBn.jpg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzA3MzE0NjkwMjkzODMuanBn.jpg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9hdWRpb19jb3Zlci8yMDI0LzA2LzEyLzMwODE1MzA3MzE0NjkwMjkzODMuanBn.jpg@thumbnail"
+      },
+      "enclosure": {
+        "url": "http://cdn.lizhi.fm/audio/2024/06/12/3081530731469552646_hd.mp3"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/audio/2024/06/12/3081530731469552646_hd.mp3",
+      "media": {
+        "id": "/audio/2024/06/12/3081530731469552646_hd.mp3",
+        "size": 1095415,
+        "mimeType": "audio/mpeg",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "http://cdn.lizhi.fm/audio/2024/06/12/3081530731469552646_hd.mp3"
+        }
+      },
+      "clapCount": 0,
+      "commentCount": 0,
+      "playCount": 0,
+      "favoriteCount": 0,
+      "pubDate": "2024-06-12T07:38:44.000Z",
+      "status": "NORMAL",
+      "duration": 65,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e441df9418a84a046c83a48",
+        "title": "野史下酒",
+        "author": "野史下酒",
+        "description": "几册青史煮美酒，三五好友谈笑声。819465",
+        "subscriptionCount": 1,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTQvMDUvMTUvODk3NTY2LmpwZw==.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTQvMDUvMTUvODk3NTY2LmpwZw==.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTQvMDUvMTUvODk3NTY2LmpwZw==.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTQvMDUvMTUvODk3NTY2LmpwZw==.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cDovL2Nkbi5saXpoaS5mbS9wb2RjYXN0X2NvdmVyLzIwMTQvMDUvMTUvODk3NTY2LmpwZw==.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#9FA1A7",
+          "light": "#829BF8",
+          "dark": "#829BF8"
+        },
+        "topicLabels": [],
+        "syncMode": "RSS",
+        "episodeCount": 384,
+        "latestEpisodePubDate": "2024-06-12T07:38:44.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "PRIVATE",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "DENIED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": false,
+        "contacts": [],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "DENIED",
+          "reason": "暂时不可评论"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "DENIED"
+        },
+        {
+          "name": "CLAP",
+          "status": "DENIED"
+        },
+        {
+          "name": "PICK",
+          "status": "DENIED"
+        },
+        {
+          "name": "VOTE",
+          "status": "DENIED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66694e507ddc6840834897bb",
+      "pid": "5e7eb7a8418a84a0465d6131",
+      "title": "关于摩点众筹的小通知",
+      "shownotes": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">【主播】<br>恶霸波、张小娘<br>【后期制作】<br>恶霸波<br>【公众号】<br>柳南故事<br>【进群方式】<br>13521785295<br><br></p>",
+      "description": "【主播】\n恶霸波、张小娘\n【后期制作】\n恶霸波\n【公众号】\n柳南故事\n【进群方式】\n13521785295",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yOWU4LWF1ZGlvZnJlZWhpZ2hxcHMvOTMvRDgvR01Db09TQUd4bjRfQUFTVUFRR1BzOS1jLmpwZWc=.jpeg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yOWU4LWF1ZGlvZnJlZWhpZ2hxcHMvOTMvRDgvR01Db09TQUd4bjRfQUFTVUFRR1BzOS1jLmpwZWc=.jpeg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yOWU4LWF1ZGlvZnJlZWhpZ2hxcHMvOTMvRDgvR01Db09TQUd4bjRfQUFTVUFRR1BzOS1jLmpwZWc=.jpeg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yOWU4LWF1ZGlvZnJlZWhpZ2hxcHMvOTMvRDgvR01Db09TQUd4bjRfQUFTVUFRR1BzOS1jLmpwZWc=.jpeg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yOWU4LWF1ZGlvZnJlZWhpZ2hxcHMvOTMvRDgvR01Db09TQUd4bjRfQUFTVUFRR1BzOS1jLmpwZWc=.jpeg@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://jt.ximalaya.com//GKwRIRwKPxD0AAfpNgLgjJtc.m4a?channel=rss&album_id=264295&track_id=734456421&uid=8879347&jt=https://audio.xmcdn.com/storages/75d6-audiofreehighqps/DF/E8/GKwRIRwKPxD0AAfpNgLgjJtc.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "//GKwRIRwKPxD0AAfpNgLgjJtc.m4a?channel=rss&album_id=264295&track_id=734456421&uid=8879347&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2F75d6-audiofreehighqps%2FDF%2FE8%2FGKwRIRwKPxD0AAfpNgLgjJtc.m4a",
+      "media": {
+        "id": "//GKwRIRwKPxD0AAfpNgLgjJtc.m4a?channel=rss&album_id=264295&track_id=734456421&uid=8879347&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2F75d6-audiofreehighqps%2FDF%2FE8%2FGKwRIRwKPxD0AAfpNgLgjJtc.m4a",
+        "size": 1537879,
+        "mimeType": "audio/x-m4a",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://jt.ximalaya.com//GKwRIRwKPxD0AAfpNgLgjJtc.m4a?channel=rss&album_id=264295&track_id=734456421&uid=8879347&jt=https://audio.xmcdn.com/storages/75d6-audiofreehighqps/DF/E8/GKwRIRwKPxD0AAfpNgLgjJtc.m4a"
+        },
+        "backupSource": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e7eb7a8418a84a0465d6131/Fhufv72mbucfBuV6dzptvGUN75lC.mp4a"
+        }
+      },
+      "clapCount": 1,
+      "commentCount": 21,
+      "playCount": 858,
+      "favoriteCount": 1,
+      "pubDate": "2024-06-12T07:27:47.000Z",
+      "status": "NORMAL",
+      "duration": 63,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e7eb7a8418a84a0465d6131",
+        "title": "野史下酒｜有趣的历史故事",
+        "author": "恶霸波",
+        "brief": "几册青史煮美酒，三五好友谈笑声",
+        "description": "人生总有酸甜苦辣，\n\n梦里浮现魑魅魍魉。\n\n合卷难掩功名利禄，\n\n举杯溢满贪嗔痴狂。",
+        "subscriptionCount": 62016,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNDFmLWF1ZGlvZnJlZWhpZ2hxcHMvNDgvOUUvR01Db09TY0d4X0RrQUFKOEhRR1FMNk9ILmpwZWc=.jpeg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNDFmLWF1ZGlvZnJlZWhpZ2hxcHMvNDgvOUUvR01Db09TY0d4X0RrQUFKOEhRR1FMNk9ILmpwZWc=.jpeg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNDFmLWF1ZGlvZnJlZWhpZ2hxcHMvNDgvOUUvR01Db09TY0d4X0RrQUFKOEhRR1FMNk9ILmpwZWc=.jpeg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNDFmLWF1ZGlvZnJlZWhpZ2hxcHMvNDgvOUUvR01Db09TY0d4X0RrQUFKOEhRR1FMNk9ILmpwZWc=.jpeg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8yNDFmLWF1ZGlvZnJlZWhpZ2hxcHMvNDgvOUUvR01Db09TY0d4X0RrQUFKOEhRR1FMNk9ILmpwZWc=.jpeg@thumbnail"
+        },
+        "color": {
+          "original": "#FBFAFA",
+          "light": "#FD8A91",
+          "dark": "#FD8A91"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 359,
+        "latestEpisodePubDate": "2024-06-12T07:27:47.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 34,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "62edfa90edce67104a743946",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P",
+                "largePicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "恶霸波",
+            "isNicknameSet": true,
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "柳南故事",
+            "note": "订阅公众号"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "transcript": {
+        "mediaId": "5e7eb7a8418a84a0465d6131/Fhufv72mbucfBuV6dzptvGUN75lC.mp4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66693d0dd5cc9594efb28755",
+      "pid": "5e436d19418a84a046b47218",
+      "title": "跑团的那些事儿（44）：跑团实录之《致命温柔》（4）",
+      "shownotes": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">大家好，兔子洞播客又抽风是的不定期更新啦。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">今天继续我们跑团实录的系列节目，调查员们虽然得到了不少线索，但是一时间不知道该干什么，最后他们决定一条路走到黑…</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">将会连载我们春节期间的一次跑团实录，算是个短团吧，全程5个半小时。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">这个模组的名字叫做《致命温柔》，使用的规则是D6系统的《迷雾之城》，这个规则是一个非常泛用的规则，跟FATE的规则有点类似，有房规。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">故事从一个调查小队被委托调查在一个俱乐部中的谋杀案开始……</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">典礼官（主持人、MC）：沐夏</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">PC：桃地白（扮演宝儿），甘明磊落（扮演罗根），绿球（扮演BIT），言若木子（扮演爱德华），晨伦（扮演佩恩）</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">剪辑/后期：晨伦</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">欢迎大家收听、订阅、赞赏。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">如果大家有任何想法或意见建议，欢迎在节目下方留言。</p><span><br></span><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\"><span>以下大纲由AI生成，仅供参考：</span><br></p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica,Arial,sans-serif;hyphens:auto;text-align:justify;\">揭秘迷案：深夜工厂的无声较量</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:29 神秘液体消失之谜：大人购买却从未使用过的瓶儿被冲马桶？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">04:31 调查中的谜团：玛莎与尤其男的消失之谜</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">07:44 网红直播需求：大公司推广挑战，年轻人晚上的优势分析</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">11:41 失落的声音：探寻失聪艺术家的钢琴演奏之旅</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">15:35 失散药物引发的追踪谜团：皮皮的失踪与货品交换的诡异事件</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">19:24 在黑暗中寻找光明：探索未知领域的冒险之旅</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">23:24 紧急情况下的自卫技巧：一针见血的解决方案</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">27:18 小弟司令，幸亏我给你带来优势！战斗中如何改变局势？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">31:13 如何使标签陷入难以行动的状态？探索标签管理的技巧与策略。</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">35:03 谜一般的尸尸实：控制尸体的能力与阴谋交织的故事</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">38:59 “心理医生的疑惑：如何理解聋哑人的语言和死亡？”</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">42:55 死人中的意外，还是有人刻意谋杀？——谜团剖析，三起离奇案件的背后故事</p>",
+      "description": "大家好，兔子洞播客又抽风是的不定期更新啦。\n今天继续我们跑团实录的系列节目，调查员们虽然得到了不少线索，但是一时间不知道该干什么，最后他们决定一条路走到黑…\n将会连载我们春节期间的一次跑团实录，算是个短团吧，全程5个半小时。\n这个模组的名字叫做《致命温柔》，使用的规则是D6系统的《迷雾之城》，这个规则是一个非常泛用的规则，跟FATE的规则有点类似，有房规。\n故事从一个调查小队被委托调查在一个俱乐部中的谋杀案开始……\n典礼官（主持人、MC）：沐夏\nPC：桃地白（扮演宝儿），甘明磊落（扮演罗根），绿球（扮演BIT），言若木子（扮演爱德华），晨伦（扮演佩恩）\n剪辑/后期：晨伦\n欢迎大家收听、订阅、赞赏。\n如果大家有任何想法或意见建议，欢迎在节目下方留言。\n以下大纲由AI生成，仅供参考：\n揭秘迷案：深夜工厂的无声较量\n02:29 神秘液体消失之谜：大人购买却从未使用过的瓶儿被冲马桶？\n04:31 调查中的谜团：玛莎与尤其男的消失之谜\n07:44 网红直播需求：大公司推广挑战，年轻人晚上的优势分析\n11:41 失落的声音：探寻失聪艺术家的钢琴演奏之旅\n15:35 失散药物引发的追踪谜团：皮皮的失踪与货品交换的诡异事件\n19:24 在黑暗中寻找光明：探索未知领域的冒险之旅\n23:24 紧急情况下的自卫技巧：一针见血的解决方案\n27:18 小弟司令，幸亏我给你带来优势！战斗中如何改变局势？\n31:13 如何使标签陷入难以行动的状态？探索标签管理的技巧与策略。\n35:03 谜一般的尸尸实：控制尸体的能力与阴谋交织的故事\n38:59 “心理医生的疑惑：如何理解聋哑人的语言和死亡？”\n42:55 死人中的意外，还是有人刻意谋杀？——谜团剖析，三起离奇案件的背后故事",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xYTdjLWF1ZGlvZnJlZWhpZ2hxcHMvQjIvRTIvR0t3UklEb0tQdndGQUFaeTlRTGdoSEdTLmpwZWc=.jpeg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xYTdjLWF1ZGlvZnJlZWhpZ2hxcHMvQjIvRTIvR0t3UklEb0tQdndGQUFaeTlRTGdoSEdTLmpwZWc=.jpeg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xYTdjLWF1ZGlvZnJlZWhpZ2hxcHMvQjIvRTIvR0t3UklEb0tQdndGQUFaeTlRTGdoSEdTLmpwZWc=.jpeg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xYTdjLWF1ZGlvZnJlZWhpZ2hxcHMvQjIvRTIvR0t3UklEb0tQdndGQUFaeTlRTGdoSEdTLmpwZWc=.jpeg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8xYTdjLWF1ZGlvZnJlZWhpZ2hxcHMvQjIvRTIvR0t3UklEb0tQdndGQUFaeTlRTGdoSEdTLmpwZWc=.jpeg@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://jt.ximalaya.com//GKwRIDoKPvzlAV2V_wLghOYP.m4a?channel=rss&album_id=12695348&track_id=734444077&uid=3437719&jt=https://audio.xmcdn.com/storages/abae-audiofreehighqps/D0/37/GKwRIDoKPvzlAV2V_wLghOYP.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "//GKwRIDoKPvzlAV2V_wLghOYP.m4a?channel=rss&album_id=12695348&track_id=734444077&uid=3437719&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2Fabae-audiofreehighqps%2FD0%2F37%2FGKwRIDoKPvzlAV2V_wLghOYP.m4a",
+      "media": {
+        "id": "//GKwRIDoKPvzlAV2V_wLghOYP.m4a?channel=rss&album_id=12695348&track_id=734444077&uid=3437719&jt=https%3A%2F%2Faudio.xmcdn.com%2Fstorages%2Fabae-audiofreehighqps%2FD0%2F37%2FGKwRIDoKPvzlAV2V_wLghOYP.m4a",
+        "size": 113211338,
+        "mimeType": "audio/x-m4a",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://jt.ximalaya.com//GKwRIDoKPvzlAV2V_wLghOYP.m4a?channel=rss&album_id=12695348&track_id=734444077&uid=3437719&jt=https://audio.xmcdn.com/storages/abae-audiofreehighqps/D0/37/GKwRIDoKPvzlAV2V_wLghOYP.m4a"
+        }
+      },
+      "clapCount": 0,
+      "commentCount": 0,
+      "playCount": 26,
+      "favoriteCount": 0,
+      "pubDate": "2024-06-12T06:00:59.000Z",
+      "status": "NORMAL",
+      "duration": 2830,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e436d19418a84a046b47218",
+        "title": "兔子洞",
+        "author": "兔子洞晨伦",
+        "brief": "从桌游出发开始聊电影、动漫、小说",
+        "description": "来自山东临沂兔子洞的播客，以聊天为主，从桌游出发，开始聊电影、动漫、小说，以及历史、奇幻、魔幻等文化。\n\n同时也有介绍桌游，及桌游相关的延展聊天瞎扯。\n\n每周六晚22：00前更新。",
+        "subscriptionCount": 1658,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDU5L00wQS9GNC81QS93S2dMZWx6dER0bXdOQUM2QUFVMWZfZ2llb2M3NTcucG5n.png",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDU5L00wQS9GNC81QS93S2dMZWx6dER0bXdOQUM2QUFVMWZfZ2llb2M3NTcucG5n.png@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDU5L00wQS9GNC81QS93S2dMZWx6dER0bXdOQUM2QUFVMWZfZ2llb2M3NTcucG5n.png@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDU5L00wQS9GNC81QS93S2dMZWx6dER0bXdOQUM2QUFVMWZfZ2llb2M3NTcucG5n.png@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9ncm91cDU5L00wQS9GNC81QS93S2dMZWx6dER0bXdOQUM2QUFVMWZfZ2llb2M3NTcucG5n.png@thumbnail"
+        },
+        "color": {
+          "original": "#0D0D0D",
+          "light": "#ACACAC",
+          "dark": "#0B0B0B"
+        },
+        "topicLabels": [],
+        "syncMode": "RSS",
+        "episodeCount": 258,
+        "latestEpisodePubDate": "2024-06-12T06:00:59.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "FREE",
+        "payEpisodeCount": 0,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "609ba268e0f5e723bb4899ee",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FlShJegWllLJM0e0nAYrxI_AV7tS.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FlShJegWllLJM0e0nAYrxI_AV7tS.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FlShJegWllLJM0e0nAYrxI_AV7tS.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FlShJegWllLJM0e0nAYrxI_AV7tS.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FlShJegWllLJM0e0nAYrxI_AV7tS.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 500,
+                "height": 500
+              }
+            },
+            "nickname": "晨伦",
+            "isNicknameSet": false,
+            "bio": "欢迎来到兔子洞",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "山东",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechat",
+            "name": "twimorn",
+            "note": "加听友群"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "山东",
+      "transcript": {
+        "mediaId": "5e436d19418a84a046b47218/lpRCY2N5tv4Kgx2s6TLOfaNt8H3b.mp4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "6668cfc37ddc684083200059",
+      "pid": "5e7cc04f418a84a04697393f",
+      "title": "超播报 | 超游杯！免门票！有奖品！欢迎来玩！",
+      "shownotes": "<p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">【本集导航】</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">02:10 挑战院长，决胜超游杯！竞技游戏与桌游对决，现场直播！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">06:41 挑战主播，夺取奖品！郎园儿VINTAGE北门儿等你来战！</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">10:05 黑神话事件引发争议，IGN道歉是否真诚？</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">16:49 游戏媒体的立场与客观性：对中国游戏行业的质疑与思考</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">26:56 游戏的文化影响力：从《文明》到游戏制作人的心路历程</p><p style=\"color:#333333;font-weight:normal;font-size:16px;line-height:30px;font-family:Helvetica, Arial, sans-serif;hyphens:auto;text-align:justify;\" data-flag=\"normal\">37:03 体验VR版模拟飞行：挑战极限还是头晕目眩的抉择？</p>",
+      "description": "【本集导航】\n02:10 挑战院长，决胜超游杯！竞技游戏与桌游对决，现场直播！\n06:41 挑战主播，夺取奖品！郎园儿VINTAGE北门儿等你来战！\n10:05 黑神话事件引发争议，IGN道歉是否真诚？\n16:49 游戏媒体的立场与客观性：对中国游戏行业的质疑与思考\n26:56 游戏的文化影响力：从《文明》到游戏制作人的心路历程\n37:03 体验VR版模拟飞行：挑战极限还是头晕目眩的抉择？",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zNDc2LWF1ZGlvZnJlZWhpZ2hxcHMvNjAvRDgvR0t3UklhSUd6X210QUFQaGJ3R1NtbkRBLmpwZWc=.jpeg",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zNDc2LWF1ZGlvZnJlZWhpZ2hxcHMvNjAvRDgvR0t3UklhSUd6X210QUFQaGJ3R1NtbkRBLmpwZWc=.jpeg@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zNDc2LWF1ZGlvZnJlZWhpZ2hxcHMvNjAvRDgvR0t3UklhSUd6X210QUFQaGJ3R1NtbkRBLmpwZWc=.jpeg@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zNDc2LWF1ZGlvZnJlZWhpZ2hxcHMvNjAvRDgvR0t3UklhSUd6X210QUFQaGJ3R1NtbkRBLmpwZWc=.jpeg@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9mZGZzLnhtY2RuLmNvbS9zdG9yYWdlcy8zNDc2LWF1ZGlvZnJlZWhpZ2hxcHMvNjAvRDgvR0t3UklhSUd6X210QUFQaGJ3R1NtbkRBLmpwZWc=.jpeg@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://dl.wavpub.com/item/77_31599437_6174.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "/item/77_31599437_6174.m4a",
+      "media": {
+        "id": "/item/77_31599437_6174.m4a",
+        "size": 19645226,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://dl.wavpub.com/item/77_31599437_6174.m4a"
+        },
+        "backupSource": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/5e7cc04f418a84a04697393f/lq2psXT2YnIjL6ls2hZ-m4Bo192E.mp4a"
+        }
+      },
+      "clapCount": 7,
+      "commentCount": 59,
+      "playCount": 1631,
+      "favoriteCount": 3,
+      "pubDate": "2024-06-11T22:00:00.000Z",
+      "status": "NORMAL",
+      "duration": 2426,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "5e7cc04f418a84a04697393f",
+        "title": "超级游文化",
+        "author": "播客公社",
+        "brief": "畅谈游戏背后的文化与生活",
+        "description": "普通玩家视角下畅聊游戏文化与生活，分享游戏带来的快乐与思考。 播客公社出品，每周六固定更新，每周一、三不定期更新。 2021年度苹果播客编辑精选、2021年度喜马拉雅百大播客。 关注同名公众号《超级游文化》，进交流群加微信 xijunfo2021",
+        "subscriptionCount": 15227,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3N1cGVyZ2FtZWN1bHR1cmUuanBlZw==.jpeg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3N1cGVyZ2FtZWN1bHR1cmUuanBlZw==.jpeg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3N1cGVyZ2FtZWN1bHR1cmUuanBlZw==.jpeg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3N1cGVyZ2FtZWN1bHR1cmUuanBlZw==.jpeg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9jZG4ud2F2cHViLmNvbS9pbWFnZXMvcG9kY2FzdC1sb2dvL3N1cGVyZ2FtZWN1bHR1cmUuanBlZw==.jpeg@thumbnail"
+        },
+        "color": {
+          "original": "#263330",
+          "light": "#03D1B6",
+          "dark": "#03D1B6"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "RSS",
+        "episodeCount": 397,
+        "latestEpisodePubDate": "2024-06-11T22:00:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 3,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "5f433fc8e0f5e723bb92c6bc",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FlPqbX7hZvc4-PdlHdtfbr7kp_KD.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FlPqbX7hZvc4-PdlHdtfbr7kp_KD.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FlPqbX7hZvc4-PdlHdtfbr7kp_KD.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FlPqbX7hZvc4-PdlHdtfbr7kp_KD.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FlPqbX7hZvc4-PdlHdtfbr7kp_KD.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 500,
+                "height": 500
+              }
+            },
+            "nickname": "细菌佛",
+            "isNicknameSet": false,
+            "bio": "苔花如米小，也学牡丹开 细菌道行浅，修炼可成佛",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "5ecd1d0b2837b2085d007574",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FmIEtAyaHjnxotpq3b-Srzm7PFN4",
+                "largePicUrl": "https://image.xyzcdn.net/FmIEtAyaHjnxotpq3b-Srzm7PFN4@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FmIEtAyaHjnxotpq3b-Srzm7PFN4@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FmIEtAyaHjnxotpq3b-Srzm7PFN4@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FmIEtAyaHjnxotpq3b-Srzm7PFN4@thumbnail",
+                "format": "",
+                "width": 0,
+                "height": 0
+              }
+            },
+            "nickname": "住在胡同的野人",
+            "isNicknameSet": false,
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "黑山",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "62edfa90edce67104a743946",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P",
+                "largePicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FnKnTG0HcEJM6CAQgeqo-reNFP9P@thumbnail",
+                "format": "jpeg",
+                "width": 132,
+                "height": 132
+              }
+            },
+            "nickname": "恶霸波",
+            "isNicknameSet": true,
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          },
+          {
+            "type": "USER",
+            "uid": "64ce8463edce67104a5409a8",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FjkEOTboxeDWNiIHwahzeUzHIkex.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FjkEOTboxeDWNiIHwahzeUzHIkex.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FjkEOTboxeDWNiIHwahzeUzHIkex.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FjkEOTboxeDWNiIHwahzeUzHIkex.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FjkEOTboxeDWNiIHwahzeUzHIkex.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "播客公社操作员",
+            "isNicknameSet": true,
+            "bio": "用于管理出品节目的公用账号",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "超级游文化",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "超级游文化",
+            "url": "https://weibo.com/n/超级游文化"
+          },
+          {
+            "type": "wechat",
+            "name": "podcaster_union",
+            "note": "加听友群"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "transcript": {
+        "mediaId": "5e7cc04f418a84a04697393f/lq2psXT2YnIjL6ls2hZ-m4Bo192E.mp4a"
+      }
+    },
+    {
+      "type": "EPISODE",
+      "eid": "66684aa0b6a8412729fe7eb4",
+      "pid": "62029bc5050f445276663790",
+      "title": "126.叉点杂谈-逐梦演艺圈",
+      "shownotes": "<figure><img src=\"https://image.xyzcdn.net/Fs0IyJLNiiTi9MZ8OQDrXWOy_SiK.jpg\"/></figure>\n<p>商务合作，加听友群或者投稿的朋友可以加电台VX：chadianfm2022<br>\n公众号：叉点叉点<br>\n小红书：叉点FM</p>\n<p>摘要<br>\n欢迎收听新一期节目，本期我们很荣幸的请来了两位影视娱乐行业的资深幕后从业者姜姜和程子。<br>\n本期我们将从综艺到影视剧，幕后的那些“不可说的故事”一次聊个透！<br>\n艺人耍大牌？观众招募的秘密？上综艺究竟是赚是赔？来听听圈内人为您一一解答，保证笑料不断，干货满满<br>\n这趟车速快，系好安全带，我们即刻发车\u0000...</p>\n<p>时间线<br>\n02:13 综艺节目背后的执行制片人：负责什么岗位？如何协调各方利益？</p>\n<p>04:54 综艺节目背后的真相：真实的反应和剧本的差异</p>\n<p>09:49 演员拍摄海报时遇到的尴尬局面：摄影师的抱怨与解决方案</p>\n<p>14:44 综艺制作背后的黑幕与挑战：一个幕后工作人员的视角</p>\n<p>19:41 横店拍摄背后的趣闻故事：剧组化妆间和粉丝见面会的火爆场面</p>\n<p>24:36 综艺节目录制周期与艺人行程：深入了解幕后故事</p>\n<p>29:30 编剧的影响力与剧本创作过程：揭秘爆款项目的秘密武器</p>\n<p>34:24 创作的磨砺：一个节目编导的心路历程</p>\n<p>39:19 综艺节目背后的艰辛与热爱：艺人与工作人员的共同付出</p>\n<p>44:18 如何成为一名综艺节目导演？探索行业内部招聘渠道与工作流程。</p>\n<p>49:13 拓展知识面，了解不同行业的工作应聘流程与挑战</p>\n<p>54:08 电影拍摄背后的八卦：道具、明星要求与导演权力之争</p>\n<p>本期音乐<br>\n片头曲：All Day And All Of The Night - The Kinks<br>\nBGM：after a few drinks - Nymano<br>\n片尾曲：All Day And All Of The Night - The Kinks\u0000</p>\n<p>本期主播<br>\n小白/耗子</p>\n<p>本期嘉宾<br>\n姜姜/程子</p>\n<figure><img src=\"https://image.xyzcdn.net/FnTGI9WO98aOOozmOZM_xOvNr-nM.jpg\"/></figure>\n<p>\u0000</p>",
+      "description": "商务合作，加听友群或者投稿的朋友可以加电台VX：chadianfm2022\n公众号：叉点叉点\n小红书：叉点FM\n摘要\n欢迎收听新一期节目，本期我们很荣幸的请来了两位影视娱乐行业的资深幕后从业者姜姜和程子。\n本期我们将从综艺到影视剧，幕后的那些“不可说的故事”一次聊个透！\n艺人耍大牌？观众招募的秘密？上综艺究竟是赚是赔？来听听圈内人为您一一解答，保证笑料不断，干货满满\n这趟车速快，系好安全带，我们即刻发车...\n时间线\n02:13 综艺节目背后的执行制片人：负责什么岗位？如何协调各方利益？\n04:54 综艺节目背后的真相：真实的反应和剧本的差异\n09:49 演员拍摄海报时遇到的尴尬局面：摄影师的抱怨与解决方案\n14:44 综艺制作背后的黑幕与挑战：一个幕后工作人员的视角\n19:41 横店拍摄背后的趣闻故事：剧组化妆间和粉丝见面会的火爆场面\n24:36 综艺节目录制周期与艺人行程：深入了解幕后故事\n29:30 编剧的影响力与剧本创作过程：揭秘爆款项目的秘密武器\n34:24 创作的磨砺：一个节目编导的心路历程\n39:19 综艺节目背后的艰辛与热爱：艺人与工作人员的共同付出\n44:18 如何成为一名综艺节目导演？探索行业内部招聘渠道与工作流程。\n49:13 拓展知识面，了解不同行业的工作应聘流程与挑战\n54:08 电影拍摄背后的八卦：道具、明星要求与导演权力之争\n本期音乐\n片头曲：All Day And All Of The Night - The Kinks\nBGM：after a few drinks - Nymano\n片尾曲：All Day And All Of The Night - The Kinks\n本期主播\n小白/耗子\n本期嘉宾\n姜姜/程子",
+      "image": {
+        "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcUpSdk1KbHFjS1BCNGttRGVMSnZHT0RJX2EucG5n.png",
+        "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcUpSdk1KbHFjS1BCNGttRGVMSnZHT0RJX2EucG5n.png@large",
+        "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcUpSdk1KbHFjS1BCNGttRGVMSnZHT0RJX2EucG5n.png@middle",
+        "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcUpSdk1KbHFjS1BCNGttRGVMSnZHT0RJX2EucG5n.png@small",
+        "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0ZqcUpSdk1KbHFjS1BCNGttRGVMSnZHT0RJX2EucG5n.png@thumbnail"
+      },
+      "enclosure": {
+        "url": "https://media.xyzcdn.net/lhpWsmBxUzETpsfKSB98tj3ZCbfm.m4a"
+      },
+      "isPrivateMedia": false,
+      "mediaKey": "lhpWsmBxUzETpsfKSB98tj3ZCbfm.m4a",
+      "media": {
+        "id": "lhpWsmBxUzETpsfKSB98tj3ZCbfm.m4a",
+        "size": 82775904,
+        "mimeType": "audio/mp4",
+        "source": {
+          "mode": "PUBLIC",
+          "url": "https://media.xyzcdn.net/lhpWsmBxUzETpsfKSB98tj3ZCbfm.m4a"
+        }
+      },
+      "clapCount": 5,
+      "commentCount": 6,
+      "playCount": 617,
+      "favoriteCount": 1,
+      "pubDate": "2024-06-11T17:30:00.000Z",
+      "status": "NORMAL",
+      "duration": 3424,
+      "podcast": {
+        "type": "PODCAST",
+        "pid": "62029bc5050f445276663790",
+        "title": "叉点FM",
+        "author": "叉点电台",
+        "brief": "一个不吱声，一个嘴太碎，一个总结巴",
+        "description": "欢迎来到叉点FM\n这是由资深产品设计-书G，高级影视平面设计-耗子，多年游戏美工-小白，三位主播共同打造的娱乐向漫谈类播客。\n如果您恰好喜欢包括但不限于奇闻异事，悬疑案件，社会热点，历史故事这些内容的话，恭喜您来对了地方。\n这里的节目会在每周三零点更新，欢迎各位叉烧粉的光临，我们不见不散...",
+        "subscriptionCount": 7985,
+        "image": {
+          "picUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Tmh5SFRUeGR0OFVIOFRqYmVaX2VadHA1YTAuanBn.jpg",
+          "largePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Tmh5SFRUeGR0OFVIOFRqYmVaX2VadHA1YTAuanBn.jpg@large",
+          "middlePicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Tmh5SFRUeGR0OFVIOFRqYmVaX2VadHA1YTAuanBn.jpg@middle",
+          "smallPicUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Tmh5SFRUeGR0OFVIOFRqYmVaX2VadHA1YTAuanBn.jpg@small",
+          "thumbnailUrl": "https://bts-image.xyzcdn.net/aHR0cHM6Ly9pbWFnZS54eXpjZG4ubmV0L0Z2Tmh5SFRUeGR0OFVIOFRqYmVaX2VadHA1YTAuanBn.jpg@thumbnail"
+        },
+        "color": {
+          "original": "#DAB620",
+          "light": "#DAB620",
+          "dark": "#DAB620"
+        },
+        "hasTopic": true,
+        "topicLabels": ["ALL"],
+        "syncMode": "SELF_HOSTING",
+        "episodeCount": 125,
+        "latestEpisodePubDate": "2024-06-11T17:30:00.000Z",
+        "subscriptionStatus": "ON",
+        "subscriptionPush": true,
+        "subscriptionPushPriority": "HIGH",
+        "subscriptionStar": false,
+        "status": "NORMAL",
+        "permissions": [
+          {
+            "name": "SHARE",
+            "status": "PERMITTED"
+          }
+        ],
+        "payType": "PAY_EPISODE_PODCAST",
+        "payEpisodeCount": 3,
+        "podcasters": [
+          {
+            "type": "USER",
+            "uid": "620299ec2cbd7c0176463fbd",
+            "avatar": {
+              "picture": {
+                "picUrl": "https://image.xyzcdn.net/FvcsAg3BS6Ytgf4nbqtLDKNLlgtN.jpg",
+                "largePicUrl": "https://image.xyzcdn.net/FvcsAg3BS6Ytgf4nbqtLDKNLlgtN.jpg@large",
+                "middlePicUrl": "https://image.xyzcdn.net/FvcsAg3BS6Ytgf4nbqtLDKNLlgtN.jpg@middle",
+                "smallPicUrl": "https://image.xyzcdn.net/FvcsAg3BS6Ytgf4nbqtLDKNLlgtN.jpg@small",
+                "thumbnailUrl": "https://image.xyzcdn.net/FvcsAg3BS6Ytgf4nbqtLDKNLlgtN.jpg@thumbnail",
+                "format": "jpeg",
+                "width": 3000,
+                "height": 3000
+              }
+            },
+            "nickname": "叉点FM",
+            "isNicknameSet": true,
+            "bio": "叉一点没什么不好",
+            "gender": "MALE",
+            "isCancelled": false,
+            "readTrackInfo": {},
+            "ipLoc": "北京",
+            "relation": "STRANGE",
+            "isBlockedByViewer": false
+          }
+        ],
+        "readTrackInfo": {},
+        "hasPopularEpisodes": true,
+        "contacts": [
+          {
+            "type": "wechatOfficialAccounts",
+            "name": "叉点叉点",
+            "note": "订阅公众号"
+          },
+          {
+            "type": "weibo",
+            "name": "叉点FM",
+            "url": "https://weibo.com/n/叉点FM"
+          },
+          {
+            "type": "wechat",
+            "name": "chadianfm2022",
+            "note": "加听友群"
+          },
+          {
+            "type": "email",
+            "name": "chadianfm@163.com",
+            "note": "听众反馈"
+          },
+          {
+            "type": "custom",
+            "name": "小红书",
+            "url": "https://www.xiaohongshu.com/user/profile/5bf141625fd37d00016ac148?xhsshare=CopyLink&appuid=5a314cb3e8ac2b5a0181a299&apptime=1716116903"
+          }
+        ],
+        "isCustomized": false
+      },
+      "isPlayed": false,
+      "isFinished": false,
+      "isPicked": false,
+      "isFavorited": false,
+      "permissions": [
+        {
+          "name": "SHARE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "COMMENT",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOICE_COMMENT",
+          "status": "DENIED"
+        },
+        {
+          "name": "COMMENT_PAGE",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "CLAP",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "PICK",
+          "status": "PERMITTED"
+        },
+        {
+          "name": "VOTE",
+          "status": "PERMITTED"
+        }
+      ],
+      "payType": "FREE",
+      "wechatShare": {
+        "style": "LINK_CARD"
+      },
+      "readTrackInfo": {},
+      "labels": [],
+      "sponsors": [],
+      "isCustomized": false,
+      "ipLoc": "北京",
+      "topicId": "65b63c29dde969cfdc0440b1",
+      "transcript": {
+        "mediaId": "lhpWsmBxUzETpsfKSB98tj3ZCbfm.m4a"
+      }
+    }
+  ],
+  "userStats": {
+    "subscriptionCount": 56
+  },
+  "loadMoreKey": {
+    "pubDate": "2024-06-11T17:30:00.000Z",
+    "id": "6668899c44b5d3e3aed19406"
+  }
+}
