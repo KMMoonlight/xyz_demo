@@ -1,7 +1,7 @@
-import { useEffect, useState } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import { QUERY_HEADER, generateLocalTime, refreshToken } from '../../utils'
-import mockData from './mock2.json'
 import React from 'react'
+import { PlayerContext } from '../../components/PlayerProvider'
 
 interface ISubscription {
   eid: string
@@ -17,6 +17,7 @@ interface ISubscription {
 
 const SubList = React.memo(
   ({ subDataList }: { subDataList: ISubscription[] }) => {
+    const { startPlayer } = useContext(PlayerContext)
     return (
       <>
         {subDataList.map((cell) => (
@@ -67,7 +68,12 @@ const SubList = React.memo(
               </div>
 
               <div className="card-actions justify-end">
-                <button className="btn btn-sm btn-primary">
+                <button
+                  className="btn btn-sm btn-primary"
+                  onClick={() =>
+                    startPlayer({ title: cell.title, media: cell.media })
+                  }
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="1em"
@@ -94,13 +100,12 @@ const Subscription = () => {
   const [subData, setSubData] = useState<ISubscription[]>([])
 
   useEffect(() => {
-    //querySubscription()
-    handleSubscriptionData(mockData)
+    querySubscription()
   }, [])
 
   const querySubscription = () => {
     const data = {
-      limit: '20',
+      limit: '40',
       sortOrder: 'desc',
       sortBy: 'subscribedAt',
     }
@@ -125,12 +130,12 @@ const Subscription = () => {
         }
       })
       .then((res) => {
-        console.log(res)
+        handleSubscriptionData(res)
       })
   }
 
   const handleSubscriptionData = (data: any) => {
-    const result = data.data.map((cell) => {
+    const result = data.data.map((cell: any) => {
       return {
         eid: cell.eid,
         pid: cell.pid,

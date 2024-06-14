@@ -1,8 +1,8 @@
-import { useEffect, useState } from 'react'
+import { useContext, useEffect, useState } from 'react'
 import { QUERY_HEADER, generateLocalTime, refreshToken } from '../../utils'
-import mockData from './mock.json'
 import React from 'react'
 import './index.css'
+import { PlayerContext } from '../../components/PlayerProvider'
 
 interface IRecommendData {
   recommendation: string
@@ -48,6 +48,7 @@ const LoadingSkeleton = () => {
 
 const RecommendList = React.memo(
   ({ recommendList }: { recommendList: IRecommendData[] }) => {
+    const { startPlayer } = useContext(PlayerContext)
     return (
       <>
         {recommendList.map((cell) => (
@@ -74,7 +75,12 @@ const RecommendList = React.memo(
               </div>
 
               <div className="card-actions justify-end">
-                <button className="btn btn-sm btn-primary">
+                <button
+                  className="btn btn-sm btn-primary"
+                  onClick={() =>
+                    startPlayer({ title: cell.title, media: cell.media })
+                  }
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="1em"
@@ -99,6 +105,8 @@ const RecommendList = React.memo(
 
 const EditorPickList = React.memo(
   ({ pickList }: { pickList: IEditorPickData[] }) => {
+    const { startPlayer } = useContext(PlayerContext)
+
     return (
       <>
         {pickList.map((cell) => (
@@ -125,7 +133,12 @@ const EditorPickList = React.memo(
                 </div>
               </div>
               <div className="card-actions justify-end mt-2">
-                <button className="btn btn-sm btn-primary">
+                <button
+                  className="btn btn-sm btn-primary"
+                  onClick={() =>
+                    startPlayer({ title: cell.title, media: cell.media })
+                  }
+                >
                   <svg
                     xmlns="http://www.w3.org/2000/svg"
                     width="1em"
@@ -156,9 +169,8 @@ const Discovery = () => {
   const [editorPickList, setEditorPickList] = useState<IEditorPickData[]>([])
 
   useEffect(() => {
-    //setDataLoading(true)
-    //getDiscovery()
-    handleDiscoverData(mockData)
+    setDataLoading(true)
+    getDiscovery()
   }, [])
 
   const getDiscovery = () => {
@@ -186,7 +198,6 @@ const Discovery = () => {
         }
       })
       .then((res) => {
-        console.log(res)
         handleDiscoverData(res)
       })
       .finally(() => {
