@@ -81,8 +81,8 @@ const Login: React.FC = () => {
           const accessToken = res.headers.get('x-jike-access-token') || ''
           const refreshToken = res.headers.get('x-jike-refresh-token') || ''
 
-          localStorage.setItem('accessToken', accessToken)
-          localStorage.setItem('refreshToken', refreshToken)
+          localStorage.setItem('x-jike-access-token', accessToken)
+          localStorage.setItem('x-jike-refresh-token', refreshToken)
 
           return res.json()
         })
