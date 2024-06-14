@@ -52,11 +52,20 @@ const AudioPlayer = () => {
     return `${minutes}:${seconds < 10 ? '0' : ''}${seconds}`
   }
 
+  const handleProgressChange = (e: any) => {
+    if (audioRef.current) {
+      const newTime = (e.target.value / 100) * duration
+      audioRef.current.currentTime = newTime
+      setCurrentTime(newTime)
+      setProgress(e.target.value)
+    }
+  }
+
   return (
     <div className="container w-[800px] p-4 fixed bottom-0 left-1/2 transform -translate-x-1/2">
       <div className="card bg-base-200 shadow-xl p-4">
         <div className="flex flex-row justify-between items-center">
-          <h1 className="text-sm font-bold flex-1">
+          <h1 className="text-base font-bold flex-1 truncate">
             {playerInfo.title || 'Pick one to play'}
           </h1>
 
@@ -98,17 +107,17 @@ const AudioPlayer = () => {
             onTimeUpdate={updateProgress}
             onLoadedMetadata={handleLoadedMetadata}
           />
-
-          <div className="flex-1" />
         </div>
 
-        <div className="flex items-center space-x-4 mb-2">
+        <div className="flex items-center space-x-4 mb-2 mt-2">
           <span>{formatTime(currentTime)}</span>
-          <progress
-            className="progress progress-primary w-full"
+          <input
+            type="range"
+            className="range range-primary flex-1"
             value={progress}
             max="100"
-          ></progress>
+            onChange={handleProgressChange}
+          />
           <span>{formatTime(duration)}</span>
         </div>
       </div>
