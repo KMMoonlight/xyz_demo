@@ -223,7 +223,7 @@ const Discovery = () => {
           pid: cell.episode.pid, //专辑ID
           title: cell.episode.title, //音频标题
           description: cell.episode.description, //音频描述
-          cover: cell.episode.image.picUrl, //音频封面
+          cover: cell?.episode?.image?.picUrl || cell?.image?.picUrl || cell.podcast?.image?.picUrl,
           podcast: cell.episode.podcast.title, //专辑信息
           media: cell.episode.media.source.url, //音频地址
         }
@@ -252,7 +252,7 @@ const Discovery = () => {
             title: cell.episode.title, //音频标题
             comment: cell.comment.text, //音频评论
             comment_author: cell.comment.author.nickname, //评论作者
-            cover: cell.episode.podcast.image.picUrl, //音频封面
+            cover: cell?.episode?.podcast?.image?.picUrl || cell?.image?.picUrl || cell.podcast?.image?.picUrl, //音频封面
             podcast: cell.episode.podcast.title, //专辑信息
             media: cell.episode.media.source.url, //音频地址
           }
